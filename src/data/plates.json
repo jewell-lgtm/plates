@@ -1,0 +1,5731 @@
+[
+  {
+    "code": "A",
+    "place": "Augsburg",
+    "state": "Bayern",
+    "places": [
+      "Augsburg"
+    ]
+  },
+  {
+    "code": "AA",
+    "place": "Ostalbkreis (Aalen)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Ostalbkreis (Aalen)"
+    ]
+  },
+  {
+    "code": "AB",
+    "place": "Aschaffenburg",
+    "state": "Bayern",
+    "places": [
+      "Aschaffenburg"
+    ]
+  },
+  {
+    "code": "ABG",
+    "place": "Altenburger Land",
+    "state": "Thüringen",
+    "places": [
+      "Altenburger Land"
+    ]
+  },
+  {
+    "code": "ABI",
+    "place": "Anhalt-Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Anhalt-Bitterfeld"
+    ]
+  },
+  {
+    "code": "AC",
+    "place": "Aachen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Aachen"
+    ]
+  },
+  {
+    "code": "AE",
+    "place": "Auerbach",
+    "state": "Sachsen",
+    "places": [
+      "Auerbach"
+    ]
+  },
+  {
+    "code": "AH",
+    "place": "Ahaus",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Ahaus"
+    ]
+  },
+  {
+    "code": "AIB",
+    "place": "Bad Aibling",
+    "state": "Bayern",
+    "places": [
+      "Bad Aibling"
+    ]
+  },
+  {
+    "code": "AIC",
+    "place": "Aichach-Friedberg",
+    "state": "Bayern",
+    "places": [
+      "Aichach-Friedberg"
+    ]
+  },
+  {
+    "code": "AK",
+    "place": "Altenkirchen",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Altenkirchen"
+    ]
+  },
+  {
+    "code": "ALF",
+    "place": "Alfeld (Leine)",
+    "state": "Niedersachsen",
+    "places": [
+      "Alfeld (Leine)"
+    ]
+  },
+  {
+    "code": "ALZ",
+    "place": "Alzenau",
+    "state": "Bayern",
+    "places": [
+      "Alzenau"
+    ]
+  },
+  {
+    "code": "AM",
+    "place": "Amberg",
+    "state": "Bayern",
+    "places": [
+      "Amberg"
+    ]
+  },
+  {
+    "code": "AN",
+    "place": "Ansbach",
+    "state": "Bayern",
+    "places": [
+      "Ansbach"
+    ]
+  },
+  {
+    "code": "ANA",
+    "place": "Annaberg",
+    "state": "Sachsen",
+    "places": [
+      "Annaberg"
+    ]
+  },
+  {
+    "code": "ANG",
+    "place": "Angermünde",
+    "state": "Brandenburg",
+    "places": [
+      "Angermünde"
+    ]
+  },
+  {
+    "code": "ANK",
+    "place": "Anklam",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Anklam"
+    ]
+  },
+  {
+    "code": "AP",
+    "place": "Weimarer Land (Apolda)",
+    "state": "Thüringen",
+    "places": [
+      "Weimarer Land (Apolda)"
+    ]
+  },
+  {
+    "code": "APD",
+    "place": "Apolda",
+    "state": "Thüringen",
+    "places": [
+      "Apolda"
+    ]
+  },
+  {
+    "code": "ARN",
+    "place": "Arnstadt",
+    "state": "Thüringen",
+    "places": [
+      "Arnstadt"
+    ]
+  },
+  {
+    "code": "ART",
+    "place": "Artern",
+    "state": "Thüringen",
+    "places": [
+      "Artern"
+    ]
+  },
+  {
+    "code": "AS",
+    "place": "Amberg-Sulzbach",
+    "state": "Bayern",
+    "places": [
+      "Amberg-Sulzbach"
+    ]
+  },
+  {
+    "code": "ASL",
+    "place": "Aschersleben-Staßfurt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Aschersleben-Staßfurt"
+    ]
+  },
+  {
+    "code": "ASZ",
+    "place": "Aue-Schwarzenberg",
+    "state": "Sachsen",
+    "places": [
+      "Aue-Schwarzenberg"
+    ]
+  },
+  {
+    "code": "AT",
+    "place": "Altentreptow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Altentreptow"
+    ]
+  },
+  {
+    "code": "AU",
+    "place": "Aue",
+    "state": "Sachsen",
+    "places": [
+      "Aue"
+    ]
+  },
+  {
+    "code": "AUR",
+    "place": "Aurich",
+    "state": "Niedersachsen",
+    "places": [
+      "Aurich"
+    ]
+  },
+  {
+    "code": "AW",
+    "place": "Ahrweiler",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Ahrweiler"
+    ]
+  },
+  {
+    "code": "AZ",
+    "place": "Alzey-Worms",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Alzey-Worms"
+    ]
+  },
+  {
+    "code": "AZE",
+    "place": "Anhalt-Zerbst",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Anhalt-Zerbst"
+    ]
+  },
+  {
+    "code": "AÖ",
+    "place": "Altötting",
+    "state": "Bayern",
+    "places": [
+      "Altötting"
+    ]
+  },
+  {
+    "code": "B",
+    "place": "Berlin",
+    "state": "Berlin",
+    "places": [
+      "Berlin"
+    ]
+  },
+  {
+    "code": "BA",
+    "place": "Bamberg",
+    "state": "Bayern",
+    "places": [
+      "Bamberg"
+    ]
+  },
+  {
+    "code": "BAD",
+    "place": "Baden-Baden",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Baden-Baden"
+    ]
+  },
+  {
+    "code": "BAR",
+    "place": "Barnim",
+    "state": "Brandenburg",
+    "places": [
+      "Barnim"
+    ]
+  },
+  {
+    "code": "BB",
+    "place": "Böblingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Böblingen"
+    ]
+  },
+  {
+    "code": "BBG",
+    "place": "Bernburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Bernburg"
+    ]
+  },
+  {
+    "code": "BC",
+    "place": "Biberach",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Biberach"
+    ]
+  },
+  {
+    "code": "BCH",
+    "place": "Buchen (Odenwald)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Buchen (Odenwald)"
+    ]
+  },
+  {
+    "code": "BE",
+    "place": "Beckum",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Beckum"
+    ]
+  },
+  {
+    "code": "BED",
+    "place": "Brand-Erbisdorf",
+    "state": "Sachsen",
+    "places": [
+      "Brand-Erbisdorf"
+    ]
+  },
+  {
+    "code": "BEL",
+    "place": "Belzig",
+    "state": "Brandenburg",
+    "places": [
+      "Belzig"
+    ]
+  },
+  {
+    "code": "BER",
+    "place": "Bernau",
+    "state": "Brandenburg",
+    "places": [
+      "Bernau"
+    ]
+  },
+  {
+    "code": "BF",
+    "place": "Burgsteinfurt",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Burgsteinfurt"
+    ]
+  },
+  {
+    "code": "BGD",
+    "place": "Berchtesgaden",
+    "state": "Bayern",
+    "places": [
+      "Berchtesgaden"
+    ]
+  },
+  {
+    "code": "BGL",
+    "place": "Berchtesgadener Land",
+    "state": "Bayern",
+    "places": [
+      "Berchtesgadener Land"
+    ]
+  },
+  {
+    "code": "BH",
+    "place": "Bühl",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Bühl"
+    ]
+  },
+  {
+    "code": "BI",
+    "place": "Bielefeld",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Bielefeld"
+    ]
+  },
+  {
+    "code": "BID",
+    "place": "Biedenkopf",
+    "state": "Hessen",
+    "places": [
+      "Biedenkopf"
+    ]
+  },
+  {
+    "code": "BIN",
+    "place": "Bingen am Rhein",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Bingen am Rhein"
+    ]
+  },
+  {
+    "code": "BIR",
+    "place": "Birkenfeld",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Birkenfeld"
+    ]
+  },
+  {
+    "code": "BIT",
+    "place": "Bitburg-Prüm (Eifelkreis)",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Bitburg-Prüm (Eifelkreis)"
+    ]
+  },
+  {
+    "code": "BIW",
+    "place": "Bischofswerda",
+    "state": "Sachsen",
+    "places": [
+      "Bischofswerda"
+    ]
+  },
+  {
+    "code": "BK",
+    "place": "Backnang",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Backnang",
+      "Landkreis Börde"
+    ]
+  },
+  {
+    "code": "BKS",
+    "place": "Bernkastel-Kues",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Bernkastel-Kues"
+    ]
+  },
+  {
+    "code": "BL",
+    "place": "Zollernalbkreis (Balingen)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Zollernalbkreis (Balingen)"
+    ]
+  },
+  {
+    "code": "BLB",
+    "place": "Berleburg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Berleburg"
+    ]
+  },
+  {
+    "code": "BLK",
+    "place": "Burgenlandkreis",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Burgenlandkreis"
+    ]
+  },
+  {
+    "code": "BM",
+    "place": "Rhein-Erft-Kreis (Bergheim)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Rhein-Erft-Kreis (Bergheim)"
+    ]
+  },
+  {
+    "code": "BN",
+    "place": "Bonn",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Bonn"
+    ]
+  },
+  {
+    "code": "BNA",
+    "place": "Borna",
+    "state": "Sachsen",
+    "places": [
+      "Borna"
+    ]
+  },
+  {
+    "code": "BO",
+    "place": "Bochum",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Bochum"
+    ]
+  },
+  {
+    "code": "BOG",
+    "place": "Bogen",
+    "state": "Bayern",
+    "places": [
+      "Bogen"
+    ]
+  },
+  {
+    "code": "BOH",
+    "place": "Bocholt",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Bocholt"
+    ]
+  },
+  {
+    "code": "BOR",
+    "place": "Borken",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Borken"
+    ]
+  },
+  {
+    "code": "BOT",
+    "place": "Bottrop",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Bottrop"
+    ]
+  },
+  {
+    "code": "BR",
+    "place": "Bruchsal",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Bruchsal"
+    ]
+  },
+  {
+    "code": "BRA",
+    "place": "Wesermarsch (Brake)",
+    "state": "Niedersachsen",
+    "places": [
+      "Wesermarsch (Brake)"
+    ]
+  },
+  {
+    "code": "BRB",
+    "place": "Brandenburg",
+    "state": "Brandenburg",
+    "places": [
+      "Brandenburg"
+    ]
+  },
+  {
+    "code": "BRG",
+    "place": "Burg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Burg"
+    ]
+  },
+  {
+    "code": "BRK",
+    "place": "Bad Brückenau",
+    "state": "Bayern",
+    "places": [
+      "Bad Brückenau"
+    ]
+  },
+  {
+    "code": "BRL",
+    "place": "Blankenburg (Braunlage)",
+    "state": "Niedersachsen",
+    "places": [
+      "Blankenburg (Braunlage)"
+    ]
+  },
+  {
+    "code": "BRV",
+    "place": "Bremervörde",
+    "state": "Niedersachsen",
+    "places": [
+      "Bremervörde"
+    ]
+  },
+  {
+    "code": "BS",
+    "place": "Braunschweig",
+    "state": "Niedersachsen",
+    "places": [
+      "Braunschweig"
+    ]
+  },
+  {
+    "code": "BSB",
+    "place": "Bersenbrück",
+    "state": "Niedersachsen",
+    "places": [
+      "Bersenbrück"
+    ]
+  },
+  {
+    "code": "BSK",
+    "place": "Beeskow",
+    "state": "Brandenburg",
+    "places": [
+      "Beeskow"
+    ]
+  },
+  {
+    "code": "BT",
+    "place": "Bayreuth",
+    "state": "Bayern",
+    "places": [
+      "Bayreuth"
+    ]
+  },
+  {
+    "code": "BTF",
+    "place": "Bitterfeld",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Bitterfeld"
+    ]
+  },
+  {
+    "code": "BUL",
+    "place": "Burglengenfeld",
+    "state": "Bayern",
+    "places": [
+      "Burglengenfeld"
+    ]
+  },
+  {
+    "code": "BZ",
+    "place": "Bautzen",
+    "state": "Sachsen",
+    "places": [
+      "Bautzen"
+    ]
+  },
+  {
+    "code": "BÖ",
+    "place": "Bördekreis",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Bördekreis"
+    ]
+  },
+  {
+    "code": "BÜD",
+    "place": "Büdingen",
+    "state": "Hessen",
+    "places": [
+      "Büdingen"
+    ]
+  },
+  {
+    "code": "BÜR",
+    "place": "Büren",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Büren"
+    ]
+  },
+  {
+    "code": "BÜS",
+    "place": "Büsingen (Konstanz)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Büsingen (Konstanz)"
+    ]
+  },
+  {
+    "code": "BÜZ",
+    "place": "Bützow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Bützow"
+    ]
+  },
+  {
+    "code": "C",
+    "place": "Chemnitz",
+    "state": "Sachsen",
+    "places": [
+      "Chemnitz"
+    ]
+  },
+  {
+    "code": "CA",
+    "place": "Calau",
+    "state": "Brandenburg",
+    "places": [
+      "Calau"
+    ]
+  },
+  {
+    "code": "CAS",
+    "place": "Castrop-Rauxel",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Castrop-Rauxel"
+    ]
+  },
+  {
+    "code": "CB",
+    "place": "Cottbus",
+    "state": "Brandenburg",
+    "places": [
+      "Cottbus"
+    ]
+  },
+  {
+    "code": "CE",
+    "place": "Celle",
+    "state": "Niedersachsen",
+    "places": [
+      "Celle"
+    ]
+  },
+  {
+    "code": "CHA",
+    "place": "Cham",
+    "state": "Bayern",
+    "places": [
+      "Cham"
+    ]
+  },
+  {
+    "code": "CLP",
+    "place": "Cloppenburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Cloppenburg"
+    ]
+  },
+  {
+    "code": "CLZ",
+    "place": "Clausthal-Zellerfeld",
+    "state": "Niedersachsen",
+    "places": [
+      "Clausthal-Zellerfeld"
+    ]
+  },
+  {
+    "code": "CO",
+    "place": "Coburg",
+    "state": "Bayern",
+    "places": [
+      "Coburg"
+    ]
+  },
+  {
+    "code": "COC",
+    "place": "Cochem-Zell",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Cochem-Zell"
+    ]
+  },
+  {
+    "code": "COE",
+    "place": "Coesfeld",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Coesfeld"
+    ]
+  },
+  {
+    "code": "CR",
+    "place": "Crailsheim",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Crailsheim"
+    ]
+  },
+  {
+    "code": "CUX",
+    "place": "Cuxhaven",
+    "state": "Niedersachsen",
+    "places": [
+      "Cuxhaven"
+    ]
+  },
+  {
+    "code": "CW",
+    "place": "Calw",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Calw"
+    ]
+  },
+  {
+    "code": "D",
+    "place": "Düsseldorf",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Düsseldorf"
+    ]
+  },
+  {
+    "code": "DA",
+    "place": "Darmstadt",
+    "state": "Hessen",
+    "places": [
+      "Darmstadt"
+    ]
+  },
+  {
+    "code": "DAH",
+    "place": "Dachau",
+    "state": "Bayern",
+    "places": [
+      "Dachau"
+    ]
+  },
+  {
+    "code": "DAN",
+    "place": "Lüchow-Dannenberg",
+    "state": "Niedersachsen",
+    "places": [
+      "Lüchow-Dannenberg"
+    ]
+  },
+  {
+    "code": "DAU",
+    "place": "Daun",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Daun"
+    ]
+  },
+  {
+    "code": "DBR",
+    "place": "Bad Doberan",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Bad Doberan"
+    ]
+  },
+  {
+    "code": "DD",
+    "place": "Dresden",
+    "state": "Sachsen",
+    "places": [
+      "Dresden"
+    ]
+  },
+  {
+    "code": "DE",
+    "place": "Dessau-Roßlau",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Dessau-Roßlau"
+    ]
+  },
+  {
+    "code": "DEG",
+    "place": "Deggendorf",
+    "state": "Bayern",
+    "places": [
+      "Deggendorf"
+    ]
+  },
+  {
+    "code": "DEL",
+    "place": "Delmenhorst",
+    "state": "Niedersachsen",
+    "places": [
+      "Delmenhorst"
+    ]
+  },
+  {
+    "code": "DGF",
+    "place": "Dingolfing-Landau",
+    "state": "Bayern",
+    "places": [
+      "Dingolfing-Landau"
+    ]
+  },
+  {
+    "code": "DH",
+    "place": "Diepholz",
+    "state": "Niedersachsen",
+    "places": [
+      "Diepholz"
+    ]
+  },
+  {
+    "code": "DI",
+    "place": "Dieburg",
+    "state": "Hessen",
+    "places": [
+      "Dieburg"
+    ]
+  },
+  {
+    "code": "DIL",
+    "place": "Dillkreis (Dillenburg)",
+    "state": "Hessen",
+    "places": [
+      "Dillkreis (Dillenburg)"
+    ]
+  },
+  {
+    "code": "DIN",
+    "place": "Dinslaken",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Dinslaken"
+    ]
+  },
+  {
+    "code": "DIZ",
+    "place": "Diez",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Diez"
+    ]
+  },
+  {
+    "code": "DKB",
+    "place": "Dinkelsbühl",
+    "state": "Bayern",
+    "places": [
+      "Dinkelsbühl"
+    ]
+  },
+  {
+    "code": "DL",
+    "place": "Döbeln",
+    "state": "Sachsen",
+    "places": [
+      "Döbeln"
+    ]
+  },
+  {
+    "code": "DLG",
+    "place": "Dillingen a.d. Donau",
+    "state": "Bayern",
+    "places": [
+      "Dillingen a.d. Donau"
+    ]
+  },
+  {
+    "code": "DM",
+    "place": "Demmin",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Demmin"
+    ]
+  },
+  {
+    "code": "DN",
+    "place": "Düren",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Düren"
+    ]
+  },
+  {
+    "code": "DO",
+    "place": "Dortmund",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Dortmund"
+    ]
+  },
+  {
+    "code": "DON",
+    "place": "Donau-Ries (Donauwörth)",
+    "state": "Bayern",
+    "places": [
+      "Donau-Ries (Donauwörth)"
+    ]
+  },
+  {
+    "code": "DS",
+    "place": "Donaueschingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Donaueschingen"
+    ]
+  },
+  {
+    "code": "DT",
+    "place": "Lippe (Detmold)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lippe (Detmold)"
+    ]
+  },
+  {
+    "code": "DU",
+    "place": "Duisburg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Duisburg"
+    ]
+  },
+  {
+    "code": "DUD",
+    "place": "Duderstadt",
+    "state": "Niedersachsen",
+    "places": [
+      "Duderstadt"
+    ]
+  },
+  {
+    "code": "DW",
+    "place": "Dippoldiswalde",
+    "state": "Sachsen",
+    "places": [
+      "Dippoldiswalde"
+    ]
+  },
+  {
+    "code": "DZ",
+    "place": "Delitzsch",
+    "state": "Sachsen",
+    "places": [
+      "Delitzsch"
+    ]
+  },
+  {
+    "code": "DÜW",
+    "place": "Bad Dürkheim",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Bad Dürkheim"
+    ]
+  },
+  {
+    "code": "E",
+    "place": "Essen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Essen"
+    ]
+  },
+  {
+    "code": "EA",
+    "place": "Eisenach",
+    "state": "Thüringen",
+    "places": [
+      "Eisenach"
+    ]
+  },
+  {
+    "code": "EB",
+    "place": "Eilenburg",
+    "state": "Sachsen",
+    "places": [
+      "Eilenburg"
+    ]
+  },
+  {
+    "code": "EBE",
+    "place": "Ebersberg",
+    "state": "Bayern",
+    "places": [
+      "Ebersberg"
+    ]
+  },
+  {
+    "code": "EBN",
+    "place": "Ebern",
+    "state": "Bayern",
+    "places": [
+      "Ebern"
+    ]
+  },
+  {
+    "code": "EBS",
+    "place": "Ebermannstadt",
+    "state": "Bayern",
+    "places": [
+      "Ebermannstadt"
+    ]
+  },
+  {
+    "code": "ECK",
+    "place": "Eckernförde",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Eckernförde"
+    ]
+  },
+  {
+    "code": "ED",
+    "place": "Erding",
+    "state": "Bayern",
+    "places": [
+      "Erding"
+    ]
+  },
+  {
+    "code": "EE",
+    "place": "Elbe-Elster",
+    "state": "Brandenburg",
+    "places": [
+      "Elbe-Elster"
+    ]
+  },
+  {
+    "code": "EF",
+    "place": "Erfurt",
+    "state": "Thüringen",
+    "places": [
+      "Erfurt"
+    ]
+  },
+  {
+    "code": "EG",
+    "place": "Eggenfelden",
+    "state": "Bayern",
+    "places": [
+      "Eggenfelden"
+    ]
+  },
+  {
+    "code": "EH",
+    "place": "Eisenhüttenstadt",
+    "state": "Brandenburg",
+    "places": [
+      "Eisenhüttenstadt"
+    ]
+  },
+  {
+    "code": "EI",
+    "place": "Eichstätt",
+    "state": "Bayern",
+    "places": [
+      "Eichstätt"
+    ]
+  },
+  {
+    "code": "EIC",
+    "place": "Eichsfeld",
+    "state": "Thüringen",
+    "places": [
+      "Eichsfeld"
+    ]
+  },
+  {
+    "code": "EIL",
+    "place": "Eisleben",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Eisleben"
+    ]
+  },
+  {
+    "code": "EIN",
+    "place": "Einbeck",
+    "state": "Niedersachsen",
+    "places": [
+      "Einbeck"
+    ]
+  },
+  {
+    "code": "EIS",
+    "place": "Eisenberg",
+    "state": "Thüringen",
+    "places": [
+      "Eisenberg"
+    ]
+  },
+  {
+    "code": "EL",
+    "place": "Emsland",
+    "state": "Niedersachsen",
+    "places": [
+      "Emsland"
+    ]
+  },
+  {
+    "code": "EM",
+    "place": "Emmendingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Emmendingen"
+    ]
+  },
+  {
+    "code": "EMD",
+    "place": "Emden",
+    "state": "Niedersachsen",
+    "places": [
+      "Emden"
+    ]
+  },
+  {
+    "code": "EMS",
+    "place": "Rhein-Lahn-Kreis (Bad Ems)",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Rhein-Lahn-Kreis (Bad Ems)"
+    ]
+  },
+  {
+    "code": "EN",
+    "place": "Ennepe-Ruhr-Kreis",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Ennepe-Ruhr-Kreis"
+    ]
+  },
+  {
+    "code": "ER",
+    "place": "Erlangen",
+    "state": "Bayern",
+    "places": [
+      "Erlangen"
+    ]
+  },
+  {
+    "code": "ERB",
+    "place": "Odenwaldkreis (Erbach)",
+    "state": "Hessen",
+    "places": [
+      "Odenwaldkreis (Erbach)"
+    ]
+  },
+  {
+    "code": "ERH",
+    "place": "Erlangen-Höchstadt",
+    "state": "Bayern",
+    "places": [
+      "Erlangen-Höchstadt"
+    ]
+  },
+  {
+    "code": "ERK",
+    "place": "Erkelenz",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Erkelenz"
+    ]
+  },
+  {
+    "code": "ERZ",
+    "place": "Erzgebirgskreis",
+    "state": "Sachsen",
+    "places": [
+      "Erzgebirgskreis"
+    ]
+  },
+  {
+    "code": "ES",
+    "place": "Esslingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Esslingen"
+    ]
+  },
+  {
+    "code": "ESB",
+    "place": "Eschenbach in der Oberpfalz",
+    "state": "Bayern",
+    "places": [
+      "Eschenbach in der Oberpfalz"
+    ]
+  },
+  {
+    "code": "ESW",
+    "place": "Werra-Meißner-Kreis (Eschwege)",
+    "state": "Hessen",
+    "places": [
+      "Werra-Meißner-Kreis (Eschwege)"
+    ]
+  },
+  {
+    "code": "EU",
+    "place": "Euskirchen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Euskirchen"
+    ]
+  },
+  {
+    "code": "EW",
+    "place": "Eberswalde",
+    "state": "Brandenburg",
+    "places": [
+      "Eberswalde"
+    ]
+  },
+  {
+    "code": "F",
+    "place": "Frankfurt am Main",
+    "state": "Hessen",
+    "places": [
+      "Frankfurt am Main"
+    ]
+  },
+  {
+    "code": "FB",
+    "place": "Wetteraukreis (Friedberg)",
+    "state": "Hessen",
+    "places": [
+      "Wetteraukreis (Friedberg)"
+    ]
+  },
+  {
+    "code": "FD",
+    "place": "Fulda",
+    "state": "Hessen",
+    "places": [
+      "Fulda"
+    ]
+  },
+  {
+    "code": "FDB",
+    "place": "Friedberg",
+    "state": "Bayern",
+    "places": [
+      "Friedberg"
+    ]
+  },
+  {
+    "code": "FDS",
+    "place": "Freudenstadt",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Freudenstadt"
+    ]
+  },
+  {
+    "code": "FEU",
+    "place": "Feuchtwangen",
+    "state": "Bayern",
+    "places": [
+      "Feuchtwangen"
+    ]
+  },
+  {
+    "code": "FF",
+    "place": "Frankfurt (Oder)",
+    "state": "Brandenburg",
+    "places": [
+      "Frankfurt (Oder)"
+    ]
+  },
+  {
+    "code": "FFB",
+    "place": "Fürstenfeldbruck",
+    "state": "Bayern",
+    "places": [
+      "Fürstenfeldbruck"
+    ]
+  },
+  {
+    "code": "FG",
+    "place": "Mittelsachsen (Freiberg)",
+    "state": "Sachsen",
+    "places": [
+      "Mittelsachsen (Freiberg)"
+    ]
+  },
+  {
+    "code": "FI",
+    "place": "Finsterwalde",
+    "state": "Brandenburg",
+    "places": [
+      "Finsterwalde"
+    ]
+  },
+  {
+    "code": "FKB",
+    "place": "Frankenberg (Eder)",
+    "state": "Hessen",
+    "places": [
+      "Frankenberg (Eder)"
+    ]
+  },
+  {
+    "code": "FL",
+    "place": "Flensburg",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Flensburg"
+    ]
+  },
+  {
+    "code": "FLÖ",
+    "place": "Flöha",
+    "state": "Sachsen",
+    "places": [
+      "Flöha"
+    ]
+  },
+  {
+    "code": "FN",
+    "place": "Bodenseekreis (Friedrichshafen)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Bodenseekreis (Friedrichshafen)"
+    ]
+  },
+  {
+    "code": "FO",
+    "place": "Forchheim",
+    "state": "Bayern",
+    "places": [
+      "Forchheim"
+    ]
+  },
+  {
+    "code": "FOR",
+    "place": "Forst",
+    "state": "Brandenburg",
+    "places": [
+      "Forst"
+    ]
+  },
+  {
+    "code": "FR",
+    "place": "Freiburg im Breisgau",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Freiburg im Breisgau"
+    ]
+  },
+  {
+    "code": "FRG",
+    "place": "Freyung-Grafenau",
+    "state": "Bayern",
+    "places": [
+      "Freyung-Grafenau"
+    ]
+  },
+  {
+    "code": "FRI",
+    "place": "Friesland",
+    "state": "Niedersachsen",
+    "places": [
+      "Friesland"
+    ]
+  },
+  {
+    "code": "FRW",
+    "place": "Bad Freienwalde",
+    "state": "Brandenburg",
+    "places": [
+      "Bad Freienwalde"
+    ]
+  },
+  {
+    "code": "FS",
+    "place": "Freising",
+    "state": "Bayern",
+    "places": [
+      "Freising"
+    ]
+  },
+  {
+    "code": "FT",
+    "place": "Frankenthal",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Frankenthal"
+    ]
+  },
+  {
+    "code": "FTL",
+    "place": "Freital",
+    "state": "Sachsen",
+    "places": [
+      "Freital"
+    ]
+  },
+  {
+    "code": "FW",
+    "place": "Fürstenwalde",
+    "state": "Brandenburg",
+    "places": [
+      "Fürstenwalde"
+    ]
+  },
+  {
+    "code": "FZ",
+    "place": "Fritzlar-Homberg",
+    "state": "Hessen",
+    "places": [
+      "Fritzlar-Homberg"
+    ]
+  },
+  {
+    "code": "FÜ",
+    "place": "Fürth",
+    "state": "Bayern",
+    "places": [
+      "Fürth"
+    ]
+  },
+  {
+    "code": "FÜS",
+    "place": "Füssen",
+    "state": "Bayern",
+    "places": [
+      "Füssen"
+    ]
+  },
+  {
+    "code": "G",
+    "place": "Gera",
+    "state": "Thüringen",
+    "places": [
+      "Gera"
+    ]
+  },
+  {
+    "code": "GA",
+    "place": "Gardelegen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Gardelegen"
+    ]
+  },
+  {
+    "code": "GAN",
+    "place": "Bad Gandersheim",
+    "state": "Niedersachsen",
+    "places": [
+      "Bad Gandersheim"
+    ]
+  },
+  {
+    "code": "GAP",
+    "place": "Garmisch-Partenkirchen",
+    "state": "Bayern",
+    "places": [
+      "Garmisch-Partenkirchen"
+    ]
+  },
+  {
+    "code": "GC",
+    "place": "Glauchau",
+    "state": "Sachsen",
+    "places": [
+      "Glauchau"
+    ]
+  },
+  {
+    "code": "GD",
+    "place": "Schwäbisch Gmünd",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Schwäbisch Gmünd"
+    ]
+  },
+  {
+    "code": "GDB",
+    "place": "Gadebusch",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Gadebusch"
+    ]
+  },
+  {
+    "code": "GE",
+    "place": "Gelsenkirchen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Gelsenkirchen"
+    ]
+  },
+  {
+    "code": "GEL",
+    "place": "Geldern",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Geldern"
+    ]
+  },
+  {
+    "code": "GEO",
+    "place": "Gerolzhofen",
+    "state": "Bayern",
+    "places": [
+      "Gerolzhofen"
+    ]
+  },
+  {
+    "code": "GER",
+    "place": "Germersheim",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Germersheim"
+    ]
+  },
+  {
+    "code": "GF",
+    "place": "Gifhorn",
+    "state": "Niedersachsen",
+    "places": [
+      "Gifhorn"
+    ]
+  },
+  {
+    "code": "GG",
+    "place": "Groß-Gerau",
+    "state": "Hessen",
+    "places": [
+      "Groß-Gerau"
+    ]
+  },
+  {
+    "code": "GHA",
+    "place": "Geithain",
+    "state": "Sachsen",
+    "places": [
+      "Geithain"
+    ]
+  },
+  {
+    "code": "GHC",
+    "place": "Gräfenhainichen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Gräfenhainichen"
+    ]
+  },
+  {
+    "code": "GI",
+    "place": "Gießen",
+    "state": "Hessen",
+    "places": [
+      "Gießen"
+    ]
+  },
+  {
+    "code": "GK",
+    "place": "Geilenkirchen-Heinsberg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Geilenkirchen-Heinsberg"
+    ]
+  },
+  {
+    "code": "GL",
+    "place": "Rheinisch-Bergischer Kreis (Bergisch Gladbach)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Rheinisch-Bergischer Kreis (Bergisch Gladbach)"
+    ]
+  },
+  {
+    "code": "GLA",
+    "place": "Gladbeck",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Gladbeck"
+    ]
+  },
+  {
+    "code": "GM",
+    "place": "Oberbergischer Kreis (Gummersbach)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Oberbergischer Kreis (Gummersbach)"
+    ]
+  },
+  {
+    "code": "GMN",
+    "place": "Grimmen",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Grimmen"
+    ]
+  },
+  {
+    "code": "GN",
+    "place": "Gelnhausen",
+    "state": "Hessen",
+    "places": [
+      "Gelnhausen"
+    ]
+  },
+  {
+    "code": "GNT",
+    "place": "Genthin",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Genthin"
+    ]
+  },
+  {
+    "code": "GOA",
+    "place": "Sankt Goar",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Sankt Goar"
+    ]
+  },
+  {
+    "code": "GOH",
+    "place": "St. Goarshausen",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "St. Goarshausen"
+    ]
+  },
+  {
+    "code": "GP",
+    "place": "Göppingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Göppingen"
+    ]
+  },
+  {
+    "code": "GR",
+    "place": "Görlitz",
+    "state": "Sachsen",
+    "places": [
+      "Görlitz"
+    ]
+  },
+  {
+    "code": "GRA",
+    "place": "Grafenau",
+    "state": "Bayern",
+    "places": [
+      "Grafenau"
+    ]
+  },
+  {
+    "code": "GRH",
+    "place": "Großenhain",
+    "state": "Sachsen",
+    "places": [
+      "Großenhain"
+    ]
+  },
+  {
+    "code": "GRI",
+    "place": "Bad Griesbach i. Rottal",
+    "state": "Bayern",
+    "places": [
+      "Bad Griesbach i. Rottal"
+    ]
+  },
+  {
+    "code": "GRM",
+    "place": "Grimma",
+    "state": "Sachsen",
+    "places": [
+      "Grimma"
+    ]
+  },
+  {
+    "code": "GRZ",
+    "place": "Greiz",
+    "state": "Thüringen",
+    "places": [
+      "Greiz"
+    ]
+  },
+  {
+    "code": "GS",
+    "place": "Goslar",
+    "state": "Niedersachsen",
+    "places": [
+      "Goslar"
+    ]
+  },
+  {
+    "code": "GT",
+    "place": "Gütersloh",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Gütersloh"
+    ]
+  },
+  {
+    "code": "GTH",
+    "place": "Gotha",
+    "state": "Thüringen",
+    "places": [
+      "Gotha"
+    ]
+  },
+  {
+    "code": "GUB",
+    "place": "Guben",
+    "state": "Brandenburg",
+    "places": [
+      "Guben"
+    ]
+  },
+  {
+    "code": "GUN",
+    "place": "Gunzenhausen",
+    "state": "Bayern",
+    "places": [
+      "Gunzenhausen"
+    ]
+  },
+  {
+    "code": "GV",
+    "place": "Grevenbroich",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Grevenbroich"
+    ]
+  },
+  {
+    "code": "GVM",
+    "place": "Grevesmühlen",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Grevesmühlen"
+    ]
+  },
+  {
+    "code": "GW",
+    "place": "Vorpommern-Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Vorpommern-Greifswald"
+    ]
+  },
+  {
+    "code": "GZ",
+    "place": "Günzburg",
+    "state": "Bayern",
+    "places": [
+      "Günzburg"
+    ]
+  },
+  {
+    "code": "GÖ",
+    "place": "Göttingen",
+    "state": "Niedersachsen",
+    "places": [
+      "Göttingen"
+    ]
+  },
+  {
+    "code": "GÜ",
+    "place": "Güstrow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Güstrow"
+    ]
+  },
+  {
+    "code": "H",
+    "place": "Hannover",
+    "state": "Niedersachsen",
+    "places": [
+      "Hannover"
+    ]
+  },
+  {
+    "code": "HA",
+    "place": "Hagen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Hagen"
+    ]
+  },
+  {
+    "code": "HAB",
+    "place": "Hammelburg",
+    "state": "Bayern",
+    "places": [
+      "Hammelburg"
+    ]
+  },
+  {
+    "code": "HAL",
+    "place": "Halle",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Halle"
+    ]
+  },
+  {
+    "code": "HAM",
+    "place": "Hamm",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Hamm"
+    ]
+  },
+  {
+    "code": "HAS",
+    "place": "Haßberge (Haßfurt)",
+    "state": "Bayern",
+    "places": [
+      "Haßberge (Haßfurt)"
+    ]
+  },
+  {
+    "code": "HB",
+    "place": "Hansestadt Bremen",
+    "state": "Freie Hansestadt Bremen",
+    "places": [
+      "Hansestadt Bremen"
+    ]
+  },
+  {
+    "code": "HBN",
+    "place": "Hildburghausen",
+    "state": "Thüringen",
+    "places": [
+      "Hildburghausen"
+    ]
+  },
+  {
+    "code": "HBS",
+    "place": "Halberstadt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Halberstadt"
+    ]
+  },
+  {
+    "code": "HC",
+    "place": "Hainichen",
+    "state": "Sachsen",
+    "places": [
+      "Hainichen"
+    ]
+  },
+  {
+    "code": "HCH",
+    "place": "Hechingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Hechingen"
+    ]
+  },
+  {
+    "code": "HD",
+    "place": "Heidelberg",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Heidelberg"
+    ]
+  },
+  {
+    "code": "HDH",
+    "place": "Heidenheim (Brenz)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Heidenheim (Brenz)"
+    ]
+  },
+  {
+    "code": "HDL",
+    "place": "Haldensleben",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Haldensleben"
+    ]
+  },
+  {
+    "code": "HE",
+    "place": "Helmstedt",
+    "state": "Niedersachsen",
+    "places": [
+      "Helmstedt"
+    ]
+  },
+  {
+    "code": "HEB",
+    "place": "Hersbruck",
+    "state": "Bayern",
+    "places": [
+      "Hersbruck"
+    ]
+  },
+  {
+    "code": "HEF",
+    "place": "Hersfeld-Rotenburg",
+    "state": "Hessen",
+    "places": [
+      "Hersfeld-Rotenburg"
+    ]
+  },
+  {
+    "code": "HEI",
+    "place": "Dithmarschen (Heide)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Dithmarschen (Heide)"
+    ]
+  },
+  {
+    "code": "HER",
+    "place": "Herne",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Herne"
+    ]
+  },
+  {
+    "code": "HET",
+    "place": "Hettstedt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Hettstedt"
+    ]
+  },
+  {
+    "code": "HF",
+    "place": "Herford",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Herford"
+    ]
+  },
+  {
+    "code": "HG",
+    "place": "Hochtaunuskreis (Bad Homburg)",
+    "state": "Hessen",
+    "places": [
+      "Hochtaunuskreis (Bad Homburg)"
+    ]
+  },
+  {
+    "code": "HGN",
+    "place": "Hagenow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Hagenow"
+    ]
+  },
+  {
+    "code": "HGW",
+    "place": "Hansestadt Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Hansestadt Greifswald"
+    ]
+  },
+  {
+    "code": "HH",
+    "place": "Hansestadt Hamburg",
+    "state": "Freie und Hansestadt Hamburg",
+    "places": [
+      "Hansestadt Hamburg"
+    ]
+  },
+  {
+    "code": "HHM",
+    "place": "Hohenmölsen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Hohenmölsen"
+    ]
+  },
+  {
+    "code": "HI",
+    "place": "Hildesheim",
+    "state": "Niedersachsen",
+    "places": [
+      "Hildesheim"
+    ]
+  },
+  {
+    "code": "HIG",
+    "place": "Heiligenstadt",
+    "state": "Thüringen",
+    "places": [
+      "Heiligenstadt"
+    ]
+  },
+  {
+    "code": "HIP",
+    "place": "Hilpoltstein",
+    "state": "Bayern",
+    "places": [
+      "Hilpoltstein"
+    ]
+  },
+  {
+    "code": "HK",
+    "place": "Heidekreis",
+    "state": "Niedersachsen",
+    "places": [
+      "Heidekreis"
+    ]
+  },
+  {
+    "code": "HL",
+    "place": "Hansestadt Lübeck",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Hansestadt Lübeck"
+    ]
+  },
+  {
+    "code": "HM",
+    "place": "Hameln-Pyrmont",
+    "state": "Niedersachsen",
+    "places": [
+      "Hameln-Pyrmont"
+    ]
+  },
+  {
+    "code": "HMÜ",
+    "place": "Hann. Münden",
+    "state": "Niedersachsen",
+    "places": [
+      "Hann. Münden"
+    ]
+  },
+  {
+    "code": "HN",
+    "place": "Heilbronn",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Heilbronn"
+    ]
+  },
+  {
+    "code": "HO",
+    "place": "Hof",
+    "state": "Bayern",
+    "places": [
+      "Hof"
+    ]
+  },
+  {
+    "code": "HOG",
+    "place": "Hofgeismar",
+    "state": "Hessen",
+    "places": [
+      "Hofgeismar"
+    ]
+  },
+  {
+    "code": "HOH",
+    "place": "Hofheim in Unterfranken",
+    "state": "Bayern",
+    "places": [
+      "Hofheim in Unterfranken"
+    ]
+  },
+  {
+    "code": "HOL",
+    "place": "Holzminden",
+    "state": "Niedersachsen",
+    "places": [
+      "Holzminden"
+    ]
+  },
+  {
+    "code": "HOM",
+    "place": "Saarpfalz-Kreis (Homburg)",
+    "state": "Saarland",
+    "places": [
+      "Saarpfalz-Kreis (Homburg)"
+    ]
+  },
+  {
+    "code": "HOR",
+    "place": "Freudenstadt (Horb am Neckar)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Freudenstadt (Horb am Neckar)"
+    ]
+  },
+  {
+    "code": "HOT",
+    "place": "Hohenstein-Ernstthal",
+    "state": "Sachsen",
+    "places": [
+      "Hohenstein-Ernstthal"
+    ]
+  },
+  {
+    "code": "HP",
+    "place": "Bergstraße (Heppenheim)",
+    "state": "Hessen",
+    "places": [
+      "Bergstraße (Heppenheim)"
+    ]
+  },
+  {
+    "code": "HR",
+    "place": "Schwalm-Eder-Kreis (Homberg)",
+    "state": "Hessen",
+    "places": [
+      "Schwalm-Eder-Kreis (Homberg)"
+    ]
+  },
+  {
+    "code": "HRO",
+    "place": "Hansestadt Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Hansestadt Rostock"
+    ]
+  },
+  {
+    "code": "HS",
+    "place": "Heinsberg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Heinsberg"
+    ]
+  },
+  {
+    "code": "HSK",
+    "place": "Hochsauerlandkreis",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Hochsauerlandkreis"
+    ]
+  },
+  {
+    "code": "HST",
+    "place": "Hansestadt Stralsund",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Hansestadt Stralsund"
+    ]
+  },
+  {
+    "code": "HU",
+    "place": "Hanau",
+    "state": "Hessen",
+    "places": [
+      "Hanau"
+    ]
+  },
+  {
+    "code": "HV",
+    "place": "Havelberg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Havelberg"
+    ]
+  },
+  {
+    "code": "HVL",
+    "place": "Havelland (Rathenow)",
+    "state": "Brandenburg",
+    "places": [
+      "Havelland (Rathenow)"
+    ]
+  },
+  {
+    "code": "HWI",
+    "place": "Hansestadt Wismar",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Hansestadt Wismar"
+    ]
+  },
+  {
+    "code": "HX",
+    "place": "Höxter",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Höxter"
+    ]
+  },
+  {
+    "code": "HY",
+    "place": "Hoyerswerda",
+    "state": "Sachsen",
+    "places": [
+      "Hoyerswerda"
+    ]
+  },
+  {
+    "code": "HZ",
+    "place": "Landkreis Harz",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Landkreis Harz"
+    ]
+  },
+  {
+    "code": "HÖS",
+    "place": "Erlangen-Höchstadt",
+    "state": "Bayern",
+    "places": [
+      "Erlangen-Höchstadt"
+    ]
+  },
+  {
+    "code": "IGB",
+    "place": "St. Ingbert",
+    "state": "Saarland",
+    "places": [
+      "St. Ingbert"
+    ]
+  },
+  {
+    "code": "IK",
+    "place": "Ilm-Kreis",
+    "state": "Thüringen",
+    "places": [
+      "Ilm-Kreis"
+    ]
+  },
+  {
+    "code": "IL",
+    "place": "Ilmenau",
+    "state": "Thüringen",
+    "places": [
+      "Ilmenau"
+    ]
+  },
+  {
+    "code": "ILL",
+    "place": "Illertissen",
+    "state": "Bayern",
+    "places": [
+      "Illertissen"
+    ]
+  },
+  {
+    "code": "IN",
+    "place": "Ingolstadt",
+    "state": "Bayern",
+    "places": [
+      "Ingolstadt"
+    ]
+  },
+  {
+    "code": "IZ",
+    "place": "Steinburg (Itzehoe)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Steinburg (Itzehoe)"
+    ]
+  },
+  {
+    "code": "J",
+    "place": "Jena",
+    "state": "Thüringen",
+    "places": [
+      "Jena"
+    ]
+  },
+  {
+    "code": "JB",
+    "place": "Jüterbog",
+    "state": "Brandenburg",
+    "places": [
+      "Jüterbog"
+    ]
+  },
+  {
+    "code": "JE",
+    "place": "Jessen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Jessen"
+    ]
+  },
+  {
+    "code": "JL",
+    "place": "Jerichower Land",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Jerichower Land"
+    ]
+  },
+  {
+    "code": "JÜL",
+    "place": "Jülich",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Jülich"
+    ]
+  },
+  {
+    "code": "K",
+    "place": "Köln",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Köln"
+    ]
+  },
+  {
+    "code": "KA",
+    "place": "Karlsruhe",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Karlsruhe"
+    ]
+  },
+  {
+    "code": "KB",
+    "place": "Waldeck-Frankenberg (Korbach)",
+    "state": "Hessen",
+    "places": [
+      "Waldeck-Frankenberg (Korbach)"
+    ]
+  },
+  {
+    "code": "KC",
+    "place": "Kronach",
+    "state": "Bayern",
+    "places": [
+      "Kronach"
+    ]
+  },
+  {
+    "code": "KE",
+    "place": "Kempten (Allgäu)",
+    "state": "Bayern",
+    "places": [
+      "Kempten (Allgäu)"
+    ]
+  },
+  {
+    "code": "KEH",
+    "place": "Kelheim",
+    "state": "Bayern",
+    "places": [
+      "Kelheim"
+    ]
+  },
+  {
+    "code": "KEL",
+    "place": "Kehl",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Kehl"
+    ]
+  },
+  {
+    "code": "KEM",
+    "place": "Kemnath",
+    "state": "Bayern",
+    "places": [
+      "Kemnath"
+    ]
+  },
+  {
+    "code": "KF",
+    "place": "Kaufbeuren",
+    "state": "Bayern",
+    "places": [
+      "Kaufbeuren"
+    ]
+  },
+  {
+    "code": "KG",
+    "place": "Bad Kissingen",
+    "state": "Bayern",
+    "places": [
+      "Bad Kissingen"
+    ]
+  },
+  {
+    "code": "KH",
+    "place": "Bad Kreuznach",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Bad Kreuznach"
+    ]
+  },
+  {
+    "code": "KI",
+    "place": "Kiel",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Kiel"
+    ]
+  },
+  {
+    "code": "KIB",
+    "place": "Donnersbergkreis (Kirchheimbolanden)",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Donnersbergkreis (Kirchheimbolanden)"
+    ]
+  },
+  {
+    "code": "KK",
+    "place": "Kempen-Krefeld",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Kempen-Krefeld"
+    ]
+  },
+  {
+    "code": "KL",
+    "place": "Kaiserslautern",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Kaiserslautern"
+    ]
+  },
+  {
+    "code": "KLE",
+    "place": "Kleve",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Kleve"
+    ]
+  },
+  {
+    "code": "KLZ",
+    "place": "Klötze",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Klötze"
+    ]
+  },
+  {
+    "code": "KM",
+    "place": "Kamenz",
+    "state": "Sachsen",
+    "places": [
+      "Kamenz"
+    ]
+  },
+  {
+    "code": "KN",
+    "place": "Konstanz",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Konstanz"
+    ]
+  },
+  {
+    "code": "KO",
+    "place": "Koblenz",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Koblenz"
+    ]
+  },
+  {
+    "code": "KR",
+    "place": "Krefeld",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Krefeld"
+    ]
+  },
+  {
+    "code": "KRU",
+    "place": "Krumbach",
+    "state": "Bayern",
+    "places": [
+      "Krumbach"
+    ]
+  },
+  {
+    "code": "KS",
+    "place": "Kassel",
+    "state": "Hessen",
+    "places": [
+      "Kassel"
+    ]
+  },
+  {
+    "code": "KT",
+    "place": "Kitzingen",
+    "state": "Bayern",
+    "places": [
+      "Kitzingen"
+    ]
+  },
+  {
+    "code": "KU",
+    "place": "Kulmbach",
+    "state": "Bayern",
+    "places": [
+      "Kulmbach"
+    ]
+  },
+  {
+    "code": "KUS",
+    "place": "Kusel",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Kusel"
+    ]
+  },
+  {
+    "code": "KW",
+    "place": "Königs Wusterhausen",
+    "state": "Brandenburg",
+    "places": [
+      "Königs Wusterhausen"
+    ]
+  },
+  {
+    "code": "KY",
+    "place": "Kyritz",
+    "state": "Brandenburg",
+    "places": [
+      "Kyritz"
+    ]
+  },
+  {
+    "code": "KYF",
+    "place": "Kyffhäuserkreis",
+    "state": "Thüringen",
+    "places": [
+      "Kyffhäuserkreis"
+    ]
+  },
+  {
+    "code": "KÖN",
+    "place": "Bad Königshofen i. Grabfeld",
+    "state": "Bayern",
+    "places": [
+      "Bad Königshofen i. Grabfeld"
+    ]
+  },
+  {
+    "code": "KÖT",
+    "place": "Köthen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Köthen"
+    ]
+  },
+  {
+    "code": "KÖZ",
+    "place": "Kötzting",
+    "state": "Bayern",
+    "places": [
+      "Kötzting"
+    ]
+  },
+  {
+    "code": "KÜN",
+    "place": "Hohenlohekreis (Künzelsau)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Hohenlohekreis (Künzelsau)"
+    ]
+  },
+  {
+    "code": "L",
+    "place": "Leipzig",
+    "state": "Sachsen",
+    "places": [
+      "Leipzig"
+    ]
+  },
+  {
+    "code": "LA",
+    "place": "Landshut",
+    "state": "Bayern",
+    "places": [
+      "Landshut"
+    ]
+  },
+  {
+    "code": "LAN",
+    "place": "Dingolfing-Landau",
+    "state": "Bayern",
+    "places": [
+      "Dingolfing-Landau"
+    ]
+  },
+  {
+    "code": "LAU",
+    "place": "Nürnberger Land (Lauf a.d. Pegnitz)",
+    "state": "Bayern",
+    "places": [
+      "Nürnberger Land (Lauf a.d. Pegnitz)"
+    ]
+  },
+  {
+    "code": "LB",
+    "place": "Ludwigsburg",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Ludwigsburg"
+    ]
+  },
+  {
+    "code": "LBS",
+    "place": "Lobenstein",
+    "state": "Thüringen",
+    "places": [
+      "Lobenstein"
+    ]
+  },
+  {
+    "code": "LBZ",
+    "place": "Lübz",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Lübz"
+    ]
+  },
+  {
+    "code": "LC",
+    "place": "Luckau",
+    "state": "Brandenburg",
+    "places": [
+      "Luckau"
+    ]
+  },
+  {
+    "code": "LD",
+    "place": "Landau in der Pfalz",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Landau in der Pfalz"
+    ]
+  },
+  {
+    "code": "LDK",
+    "place": "Lahn-Dill-Kreis (Wetzlar)",
+    "state": "Hessen",
+    "places": [
+      "Lahn-Dill-Kreis (Wetzlar)"
+    ]
+  },
+  {
+    "code": "LDS",
+    "place": "Dahme-Spreewald",
+    "state": "Brandenburg",
+    "places": [
+      "Dahme-Spreewald"
+    ]
+  },
+  {
+    "code": "LE",
+    "place": "Lemgo",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lemgo"
+    ]
+  },
+  {
+    "code": "LEO",
+    "place": "Leonberg (Württemberg)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Leonberg (Württemberg)"
+    ]
+  },
+  {
+    "code": "LER",
+    "place": "Leer (Ostfriesland)",
+    "state": "Niedersachsen",
+    "places": [
+      "Leer (Ostfriesland)"
+    ]
+  },
+  {
+    "code": "LEV",
+    "place": "Leverkusen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Leverkusen"
+    ]
+  },
+  {
+    "code": "LF",
+    "place": "Laufen",
+    "state": "Bayern",
+    "places": [
+      "Laufen"
+    ]
+  },
+  {
+    "code": "LG",
+    "place": "Lüneburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Lüneburg"
+    ]
+  },
+  {
+    "code": "LH",
+    "place": "Lüdinghausen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lüdinghausen"
+    ]
+  },
+  {
+    "code": "LI",
+    "place": "Lindau (Bodensee)",
+    "state": "Bayern",
+    "places": [
+      "Lindau (Bodensee)"
+    ]
+  },
+  {
+    "code": "LIB",
+    "place": "Bad Liebenwerda",
+    "state": "Brandenburg",
+    "places": [
+      "Bad Liebenwerda"
+    ]
+  },
+  {
+    "code": "LIF",
+    "place": "Lichtenfels",
+    "state": "Bayern",
+    "places": [
+      "Lichtenfels"
+    ]
+  },
+  {
+    "code": "LIP",
+    "place": "Lippe (Detmold)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lippe (Detmold)"
+    ]
+  },
+  {
+    "code": "LK",
+    "place": "Lübbecke",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lübbecke"
+    ]
+  },
+  {
+    "code": "LL",
+    "place": "Landsberg am Lech",
+    "state": "Bayern",
+    "places": [
+      "Landsberg am Lech"
+    ]
+  },
+  {
+    "code": "LM",
+    "place": "Limburg-Weilburg",
+    "state": "Hessen",
+    "places": [
+      "Limburg-Weilburg"
+    ]
+  },
+  {
+    "code": "LN",
+    "place": "Lübben",
+    "state": "Brandenburg",
+    "places": [
+      "Lübben"
+    ]
+  },
+  {
+    "code": "LOS",
+    "place": "Oder-Spree",
+    "state": "Brandenburg",
+    "places": [
+      "Oder-Spree"
+    ]
+  },
+  {
+    "code": "LP",
+    "place": "Lippstadt",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lippstadt"
+    ]
+  },
+  {
+    "code": "LR",
+    "place": "Lahr (Schwarzwald)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Lahr (Schwarzwald)"
+    ]
+  },
+  {
+    "code": "LRO",
+    "place": "Landkreis Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Landkreis Rostock"
+    ]
+  },
+  {
+    "code": "LSZ",
+    "place": "Bad Langensalza",
+    "state": "Thüringen",
+    "places": [
+      "Bad Langensalza"
+    ]
+  },
+  {
+    "code": "LU",
+    "place": "Ludwigshafen am Rhein",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Ludwigshafen am Rhein"
+    ]
+  },
+  {
+    "code": "LUK",
+    "place": "Luckenwalde",
+    "state": "Brandenburg",
+    "places": [
+      "Luckenwalde"
+    ]
+  },
+  {
+    "code": "LUP",
+    "place": "Ludwigslust-Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Ludwigslust-Parchim"
+    ]
+  },
+  {
+    "code": "LWL",
+    "place": "Ludwigslust",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Ludwigslust"
+    ]
+  },
+  {
+    "code": "LÖ",
+    "place": "Lörrach",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Lörrach"
+    ]
+  },
+  {
+    "code": "LÖB",
+    "place": "Löbau",
+    "state": "Sachsen",
+    "places": [
+      "Löbau"
+    ]
+  },
+  {
+    "code": "LÜN",
+    "place": "Lünen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Lünen"
+    ]
+  },
+  {
+    "code": "M",
+    "place": "München",
+    "state": "Bayern",
+    "places": [
+      "München"
+    ]
+  },
+  {
+    "code": "MA",
+    "place": "Mannheim",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Mannheim"
+    ]
+  },
+  {
+    "code": "MAB",
+    "place": "Marienberg",
+    "state": "Sachsen",
+    "places": [
+      "Marienberg"
+    ]
+  },
+  {
+    "code": "MAI",
+    "place": "Mainburg",
+    "state": "Bayern",
+    "places": [
+      "Mainburg"
+    ]
+  },
+  {
+    "code": "MAK",
+    "place": "Marktredwitz",
+    "state": "Bayern",
+    "places": [
+      "Marktredwitz"
+    ]
+  },
+  {
+    "code": "MAL",
+    "place": "Mallersdorf",
+    "state": "Bayern",
+    "places": [
+      "Mallersdorf"
+    ]
+  },
+  {
+    "code": "MB",
+    "place": "Miesbach",
+    "state": "Bayern",
+    "places": [
+      "Miesbach"
+    ]
+  },
+  {
+    "code": "MC",
+    "place": "Malchin",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Malchin"
+    ]
+  },
+  {
+    "code": "MD",
+    "place": "Magdeburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Magdeburg"
+    ]
+  },
+  {
+    "code": "ME",
+    "place": "Mettmann",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Mettmann"
+    ]
+  },
+  {
+    "code": "MED",
+    "place": "Süderdithmarschen (Meldorf/Holstein)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Süderdithmarschen (Meldorf/Holstein)"
+    ]
+  },
+  {
+    "code": "MEG",
+    "place": "Melsungen",
+    "state": "Hessen",
+    "places": [
+      "Melsungen"
+    ]
+  },
+  {
+    "code": "MEI",
+    "place": "Meißen",
+    "state": "Sachsen",
+    "places": [
+      "Meißen"
+    ]
+  },
+  {
+    "code": "MEK",
+    "place": "Mittlerer Erzgebirgskreis",
+    "state": "Sachsen",
+    "places": [
+      "Mittlerer Erzgebirgskreis"
+    ]
+  },
+  {
+    "code": "MEL",
+    "place": "Melle",
+    "state": "Niedersachsen",
+    "places": [
+      "Melle"
+    ]
+  },
+  {
+    "code": "MER",
+    "place": "Merseburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Merseburg"
+    ]
+  },
+  {
+    "code": "MET",
+    "place": "Mellrichstadt",
+    "state": "Bayern",
+    "places": [
+      "Mellrichstadt"
+    ]
+  },
+  {
+    "code": "MG",
+    "place": "Mönchengladbach",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Mönchengladbach"
+    ]
+  },
+  {
+    "code": "MGH",
+    "place": "Bad Mergentheim",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Bad Mergentheim"
+    ]
+  },
+  {
+    "code": "MGN",
+    "place": "Meiningen",
+    "state": "Thüringen",
+    "places": [
+      "Meiningen"
+    ]
+  },
+  {
+    "code": "MH",
+    "place": "Mülheim an der Ruhr",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Mülheim an der Ruhr"
+    ]
+  },
+  {
+    "code": "MHL",
+    "place": "Mühlhausen",
+    "state": "Thüringen",
+    "places": [
+      "Mühlhausen"
+    ]
+  },
+  {
+    "code": "MI",
+    "place": "Minden-Lübbecke",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Minden-Lübbecke"
+    ]
+  },
+  {
+    "code": "MIL",
+    "place": "Miltenberg",
+    "state": "Bayern",
+    "places": [
+      "Miltenberg"
+    ]
+  },
+  {
+    "code": "MK",
+    "place": "Märkischer Kreis",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Märkischer Kreis"
+    ]
+  },
+  {
+    "code": "MKK",
+    "place": "Main-Kinzig-Kreis",
+    "state": "Hessen",
+    "places": [
+      "Main-Kinzig-Kreis"
+    ]
+  },
+  {
+    "code": "ML",
+    "place": "Mansfelder Land",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Mansfelder Land"
+    ]
+  },
+  {
+    "code": "MM",
+    "place": "Memmingen",
+    "state": "Bayern",
+    "places": [
+      "Memmingen"
+    ]
+  },
+  {
+    "code": "MN",
+    "place": "Unterallgäu (Mindelheim)",
+    "state": "Bayern",
+    "places": [
+      "Unterallgäu (Mindelheim)"
+    ]
+  },
+  {
+    "code": "MO",
+    "place": "Moers",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Moers"
+    ]
+  },
+  {
+    "code": "MOD",
+    "place": "Marktoberdorf",
+    "state": "Bayern",
+    "places": [
+      "Marktoberdorf"
+    ]
+  },
+  {
+    "code": "MOL",
+    "place": "Märkisch-Oderland",
+    "state": "Brandenburg",
+    "places": [
+      "Märkisch-Oderland"
+    ]
+  },
+  {
+    "code": "MON",
+    "place": "Monschau",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Monschau"
+    ]
+  },
+  {
+    "code": "MOS",
+    "place": "Neckar-Odenwald-Kreis (Mosbach)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Neckar-Odenwald-Kreis (Mosbach)"
+    ]
+  },
+  {
+    "code": "MQ",
+    "place": "Merseburg-Querfurt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Merseburg-Querfurt"
+    ]
+  },
+  {
+    "code": "MR",
+    "place": "Marburg-Biedenkopf",
+    "state": "Hessen",
+    "places": [
+      "Marburg-Biedenkopf"
+    ]
+  },
+  {
+    "code": "MS",
+    "place": "Münster",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Münster"
+    ]
+  },
+  {
+    "code": "MSE",
+    "place": "Mecklenburgische Seenplatte",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Mecklenburgische Seenplatte"
+    ]
+  },
+  {
+    "code": "MSH",
+    "place": "Mansfeld-Südharz",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Mansfeld-Südharz"
+    ]
+  },
+  {
+    "code": "MSP",
+    "place": "Main-Spessart (Karlstadt)",
+    "state": "Bayern",
+    "places": [
+      "Main-Spessart (Karlstadt)"
+    ]
+  },
+  {
+    "code": "MST",
+    "place": "Mecklenburg-Strelitz",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Mecklenburg-Strelitz"
+    ]
+  },
+  {
+    "code": "MTK",
+    "place": "Main-Taunus-Kreis",
+    "state": "Hessen",
+    "places": [
+      "Main-Taunus-Kreis"
+    ]
+  },
+  {
+    "code": "MTL",
+    "place": "Muldentalkreis",
+    "state": "Sachsen",
+    "places": [
+      "Muldentalkreis"
+    ]
+  },
+  {
+    "code": "MU",
+    "place": "München Landkreis",
+    "state": "Bayern",
+    "places": [
+      "München Landkreis"
+    ]
+  },
+  {
+    "code": "MUC",
+    "place": "München Stadt",
+    "state": "Bayern",
+    "places": [
+      "München Stadt"
+    ]
+  },
+  {
+    "code": "MW",
+    "place": "Mittweida",
+    "state": "Sachsen",
+    "places": [
+      "Mittweida"
+    ]
+  },
+  {
+    "code": "MY",
+    "place": "Mayen",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Mayen"
+    ]
+  },
+  {
+    "code": "MYK",
+    "place": "Mayen-Koblenz",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Mayen-Koblenz"
+    ]
+  },
+  {
+    "code": "MZ",
+    "place": "Mainz, Mainz-Bingen",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Mainz, Mainz-Bingen"
+    ]
+  },
+  {
+    "code": "MZG",
+    "place": "Merzig-Wadern",
+    "state": "Saarland",
+    "places": [
+      "Merzig-Wadern"
+    ]
+  },
+  {
+    "code": "MÜ",
+    "place": "Mühldorf am Inn",
+    "state": "Bayern",
+    "places": [
+      "Mühldorf am Inn"
+    ]
+  },
+  {
+    "code": "MÜB",
+    "place": "Münchberg",
+    "state": "Bayern",
+    "places": [
+      "Münchberg"
+    ]
+  },
+  {
+    "code": "MÜL",
+    "place": "Müllheim",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Müllheim"
+    ]
+  },
+  {
+    "code": "MÜR",
+    "place": "Müritz",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Müritz"
+    ]
+  },
+  {
+    "code": "N",
+    "place": "Nürnberg",
+    "state": "Bayern",
+    "places": [
+      "Nürnberg"
+    ]
+  },
+  {
+    "code": "NAB",
+    "place": "Nabburg",
+    "state": "Bayern",
+    "places": [
+      "Nabburg"
+    ]
+  },
+  {
+    "code": "NAI",
+    "place": "Naila",
+    "state": "Bayern",
+    "places": [
+      "Naila"
+    ]
+  },
+  {
+    "code": "NAU",
+    "place": "Nauen",
+    "state": "Brandenburg",
+    "places": [
+      "Nauen"
+    ]
+  },
+  {
+    "code": "NB",
+    "place": "Neubrandenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Neubrandenburg"
+    ]
+  },
+  {
+    "code": "ND",
+    "place": "Neuburg-Schrobenhausen",
+    "state": "Bayern",
+    "places": [
+      "Neuburg-Schrobenhausen"
+    ]
+  },
+  {
+    "code": "NDH",
+    "place": "Nordhausen",
+    "state": "Thüringen",
+    "places": [
+      "Nordhausen"
+    ]
+  },
+  {
+    "code": "NE",
+    "place": "Neuss",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Neuss"
+    ]
+  },
+  {
+    "code": "NEA",
+    "place": "Neustadt an der Aisch-Bad Windsheim",
+    "state": "Bayern",
+    "places": [
+      "Neustadt an der Aisch-Bad Windsheim"
+    ]
+  },
+  {
+    "code": "NEB",
+    "place": "Nebra",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Nebra"
+    ]
+  },
+  {
+    "code": "NEC",
+    "place": "Neustadt b. Coburg",
+    "state": "Bayern",
+    "places": [
+      "Neustadt b. Coburg"
+    ]
+  },
+  {
+    "code": "NEN",
+    "place": "Neunburg vorm Wald",
+    "state": "Bayern",
+    "places": [
+      "Neunburg vorm Wald"
+    ]
+  },
+  {
+    "code": "NES",
+    "place": "Rhön-Grabfeld (Bad Neustadt a.d. Saale)",
+    "state": "Bayern",
+    "places": [
+      "Rhön-Grabfeld (Bad Neustadt a.d. Saale)"
+    ]
+  },
+  {
+    "code": "NEU",
+    "place": "Hochschwarzwald (Titisee-Neustadt)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Hochschwarzwald (Titisee-Neustadt)"
+    ]
+  },
+  {
+    "code": "NEW",
+    "place": "Neustadt an der Waldnaab",
+    "state": "Bayern",
+    "places": [
+      "Neustadt an der Waldnaab"
+    ]
+  },
+  {
+    "code": "NF",
+    "place": "Nordfriesland (Husum)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Nordfriesland (Husum)"
+    ]
+  },
+  {
+    "code": "NH",
+    "place": "Neuhaus",
+    "state": "Thüringen",
+    "places": [
+      "Neuhaus"
+    ]
+  },
+  {
+    "code": "NI",
+    "place": "Nienburg (Weser)",
+    "state": "Niedersachsen",
+    "places": [
+      "Nienburg (Weser)"
+    ]
+  },
+  {
+    "code": "NK",
+    "place": "Neunkirchen (Saar)",
+    "state": "Saarland",
+    "places": [
+      "Neunkirchen (Saar)"
+    ]
+  },
+  {
+    "code": "NM",
+    "place": "Neumarkt in der Oberpfalz",
+    "state": "Bayern",
+    "places": [
+      "Neumarkt in der Oberpfalz"
+    ]
+  },
+  {
+    "code": "NMB",
+    "place": "Naumburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Naumburg"
+    ]
+  },
+  {
+    "code": "NMS",
+    "place": "Neumünster",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Neumünster"
+    ]
+  },
+  {
+    "code": "NOH",
+    "place": "Grafschaft Bentheim (Nordhorn)",
+    "state": "Niedersachsen",
+    "places": [
+      "Grafschaft Bentheim (Nordhorn)"
+    ]
+  },
+  {
+    "code": "NOL",
+    "place": "Niederschlesischer Oberlausitzkreis",
+    "state": "Sachsen",
+    "places": [
+      "Niederschlesischer Oberlausitzkreis"
+    ]
+  },
+  {
+    "code": "NOM",
+    "place": "Northeim",
+    "state": "Niedersachsen",
+    "places": [
+      "Northeim"
+    ]
+  },
+  {
+    "code": "NOR",
+    "place": "Norden",
+    "state": "Niedersachsen",
+    "places": [
+      "Norden"
+    ]
+  },
+  {
+    "code": "NP",
+    "place": "Neuruppin",
+    "state": "Brandenburg",
+    "places": [
+      "Neuruppin"
+    ]
+  },
+  {
+    "code": "NR",
+    "place": "Neuwied",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Neuwied"
+    ]
+  },
+  {
+    "code": "NT",
+    "place": "Nürtingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Nürtingen"
+    ]
+  },
+  {
+    "code": "NU",
+    "place": "Neu-Ulm",
+    "state": "Bayern",
+    "places": [
+      "Neu-Ulm"
+    ]
+  },
+  {
+    "code": "NVP",
+    "place": "Nordvorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Nordvorpommern"
+    ]
+  },
+  {
+    "code": "NW",
+    "place": "Neustadt an der Weinstraße",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Neustadt an der Weinstraße"
+    ]
+  },
+  {
+    "code": "NWM",
+    "place": "Nordwestmecklenburg",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Nordwestmecklenburg"
+    ]
+  },
+  {
+    "code": "NY",
+    "place": "Niesky",
+    "state": "Sachsen",
+    "places": [
+      "Niesky"
+    ]
+  },
+  {
+    "code": "NZ",
+    "place": "Neustrelitz",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Neustrelitz"
+    ]
+  },
+  {
+    "code": "NÖ",
+    "place": "Nördlingen",
+    "state": "Bayern",
+    "places": [
+      "Nördlingen"
+    ]
+  },
+  {
+    "code": "OA",
+    "place": "Oberallgäu",
+    "state": "Bayern",
+    "places": [
+      "Oberallgäu"
+    ]
+  },
+  {
+    "code": "OAL",
+    "place": "Ostallgäu",
+    "state": "Bayern",
+    "places": [
+      "Ostallgäu"
+    ]
+  },
+  {
+    "code": "OB",
+    "place": "Oberhausen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Oberhausen"
+    ]
+  },
+  {
+    "code": "OBB",
+    "place": "Obernburg a. Main",
+    "state": "Bayern",
+    "places": [
+      "Obernburg a. Main"
+    ]
+  },
+  {
+    "code": "OBG",
+    "place": "Osterburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Osterburg"
+    ]
+  },
+  {
+    "code": "OC",
+    "place": "Oschersleben",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Oschersleben"
+    ]
+  },
+  {
+    "code": "OCH",
+    "place": "Ochsenfurt",
+    "state": "Bayern",
+    "places": [
+      "Ochsenfurt"
+    ]
+  },
+  {
+    "code": "OD",
+    "place": "Stormarn (Bad Oldesloe)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Stormarn (Bad Oldesloe)"
+    ]
+  },
+  {
+    "code": "OE",
+    "place": "Olpe",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Olpe"
+    ]
+  },
+  {
+    "code": "OF",
+    "place": "Offenbach am Main",
+    "state": "Hessen",
+    "places": [
+      "Offenbach am Main"
+    ]
+  },
+  {
+    "code": "OG",
+    "place": "Ortenaukreis (Offenburg)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Ortenaukreis (Offenburg)"
+    ]
+  },
+  {
+    "code": "OH",
+    "place": "Ostholstein",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Ostholstein"
+    ]
+  },
+  {
+    "code": "OHA",
+    "place": "Osterode am Harz",
+    "state": "Niedersachsen",
+    "places": [
+      "Osterode am Harz"
+    ]
+  },
+  {
+    "code": "OHV",
+    "place": "Oberhavel",
+    "state": "Brandenburg",
+    "places": [
+      "Oberhavel"
+    ]
+  },
+  {
+    "code": "OHZ",
+    "place": "Osterholz",
+    "state": "Niedersachsen",
+    "places": [
+      "Osterholz"
+    ]
+  },
+  {
+    "code": "OK",
+    "place": "Ohrekreis",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Ohrekreis"
+    ]
+  },
+  {
+    "code": "OL",
+    "place": "Oldenburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Oldenburg"
+    ]
+  },
+  {
+    "code": "OP",
+    "place": "Rhein-Wupper-Kreis (Opladen)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Rhein-Wupper-Kreis (Opladen)"
+    ]
+  },
+  {
+    "code": "OPR",
+    "place": "Ostprignitz-Ruppin",
+    "state": "Brandenburg",
+    "places": [
+      "Ostprignitz-Ruppin"
+    ]
+  },
+  {
+    "code": "OS",
+    "place": "Osnabrück",
+    "state": "Niedersachsen",
+    "places": [
+      "Osnabrück"
+    ]
+  },
+  {
+    "code": "OSL",
+    "place": "Oberspreewald-Lausitz",
+    "state": "Brandenburg",
+    "places": [
+      "Oberspreewald-Lausitz"
+    ]
+  },
+  {
+    "code": "OTW",
+    "place": "Ottweiler",
+    "state": "Saarland",
+    "places": [
+      "Ottweiler"
+    ]
+  },
+  {
+    "code": "OVI",
+    "place": "Oberviechtach",
+    "state": "Bayern",
+    "places": [
+      "Oberviechtach"
+    ]
+  },
+  {
+    "code": "OVL",
+    "place": "Obervogtland",
+    "state": "Sachsen",
+    "places": [
+      "Obervogtland"
+    ]
+  },
+  {
+    "code": "OVP",
+    "place": "Ostvorpommern",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Ostvorpommern"
+    ]
+  },
+  {
+    "code": "OZ",
+    "place": "Oschatz",
+    "state": "Sachsen",
+    "places": [
+      "Oschatz"
+    ]
+  },
+  {
+    "code": "P",
+    "place": "Potsdam",
+    "state": "Brandenburg",
+    "places": [
+      "Potsdam"
+    ]
+  },
+  {
+    "code": "PA",
+    "place": "Passau",
+    "state": "Bayern",
+    "places": [
+      "Passau"
+    ]
+  },
+  {
+    "code": "PAF",
+    "place": "Pfaffenhofen a.d. Ilm",
+    "state": "Bayern",
+    "places": [
+      "Pfaffenhofen a.d. Ilm"
+    ]
+  },
+  {
+    "code": "PAN",
+    "place": "Rottal-Inn (Pfarrkirchen)",
+    "state": "Bayern",
+    "places": [
+      "Rottal-Inn (Pfarrkirchen)"
+    ]
+  },
+  {
+    "code": "PAR",
+    "place": "Parsberg",
+    "state": "Bayern",
+    "places": [
+      "Parsberg"
+    ]
+  },
+  {
+    "code": "PB",
+    "place": "Paderborn",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Paderborn"
+    ]
+  },
+  {
+    "code": "PCH",
+    "place": "Parchim",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Parchim"
+    ]
+  },
+  {
+    "code": "PE",
+    "place": "Peine",
+    "state": "Niedersachsen",
+    "places": [
+      "Peine"
+    ]
+  },
+  {
+    "code": "PEG",
+    "place": "Pegnitz",
+    "state": "Bayern",
+    "places": [
+      "Pegnitz"
+    ]
+  },
+  {
+    "code": "PF",
+    "place": "Pforzheim",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Pforzheim"
+    ]
+  },
+  {
+    "code": "PI",
+    "place": "Pinneberg",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Pinneberg"
+    ]
+  },
+  {
+    "code": "PIR",
+    "place": "Sächsische Schweiz-Osterzgebirge (Pirna)",
+    "state": "Sachsen",
+    "places": [
+      "Sächsische Schweiz-Osterzgebirge (Pirna)"
+    ]
+  },
+  {
+    "code": "PL",
+    "place": "Plauen",
+    "state": "Sachsen",
+    "places": [
+      "Plauen"
+    ]
+  },
+  {
+    "code": "PLÖ",
+    "place": "Plön",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Plön"
+    ]
+  },
+  {
+    "code": "PM",
+    "place": "Potsdam-Mittelmark",
+    "state": "Brandenburg",
+    "places": [
+      "Potsdam-Mittelmark"
+    ]
+  },
+  {
+    "code": "PN",
+    "place": "Pößneck",
+    "state": "Thüringen",
+    "places": [
+      "Pößneck"
+    ]
+  },
+  {
+    "code": "PR",
+    "place": "Prignitz (Perleberg)",
+    "state": "Brandenburg",
+    "places": [
+      "Prignitz (Perleberg)"
+    ]
+  },
+  {
+    "code": "PRÜ",
+    "place": "Prüm",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Prüm"
+    ]
+  },
+  {
+    "code": "PS",
+    "place": "Pirmasens",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Pirmasens"
+    ]
+  },
+  {
+    "code": "PW",
+    "place": "Pasewalk",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Pasewalk"
+    ]
+  },
+  {
+    "code": "PZ",
+    "place": "Prenzlau",
+    "state": "Brandenburg",
+    "places": [
+      "Prenzlau"
+    ]
+  },
+  {
+    "code": "QFT",
+    "place": "Querfurt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Querfurt"
+    ]
+  },
+  {
+    "code": "QLB",
+    "place": "Quedlinburg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Quedlinburg"
+    ]
+  },
+  {
+    "code": "R",
+    "place": "Regensburg",
+    "state": "Bayern",
+    "places": [
+      "Regensburg"
+    ]
+  },
+  {
+    "code": "RA",
+    "place": "Rastatt",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Rastatt"
+    ]
+  },
+  {
+    "code": "RC",
+    "place": "Reichenbach",
+    "state": "Sachsen",
+    "places": [
+      "Reichenbach"
+    ]
+  },
+  {
+    "code": "RD",
+    "place": "Rendsburg-Eckernförde",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Rendsburg-Eckernförde"
+    ]
+  },
+  {
+    "code": "RDG",
+    "place": "Ribnitz-Damgarten",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Ribnitz-Damgarten"
+    ]
+  },
+  {
+    "code": "RE",
+    "place": "Recklinghausen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Recklinghausen"
+    ]
+  },
+  {
+    "code": "REG",
+    "place": "Regen",
+    "state": "Bayern",
+    "places": [
+      "Regen"
+    ]
+  },
+  {
+    "code": "REH",
+    "place": "Rehau",
+    "state": "Bayern",
+    "places": [
+      "Rehau"
+    ]
+  },
+  {
+    "code": "REI",
+    "place": "Bad Reichenhall",
+    "state": "Bayern",
+    "places": [
+      "Bad Reichenhall"
+    ]
+  },
+  {
+    "code": "RG",
+    "place": "Riesa-Großenhain",
+    "state": "Sachsen",
+    "places": [
+      "Riesa-Großenhain"
+    ]
+  },
+  {
+    "code": "RH",
+    "place": "Roth",
+    "state": "Bayern",
+    "places": [
+      "Roth"
+    ]
+  },
+  {
+    "code": "RI",
+    "place": "Rinteln",
+    "state": "Niedersachsen",
+    "places": [
+      "Rinteln"
+    ]
+  },
+  {
+    "code": "RID",
+    "place": "Riedenburg",
+    "state": "Bayern",
+    "places": [
+      "Riedenburg"
+    ]
+  },
+  {
+    "code": "RIE",
+    "place": "Riesa",
+    "state": "Sachsen",
+    "places": [
+      "Riesa"
+    ]
+  },
+  {
+    "code": "RL",
+    "place": "Rochlitz",
+    "state": "Sachsen",
+    "places": [
+      "Rochlitz"
+    ]
+  },
+  {
+    "code": "RM",
+    "place": "Röbel (Müritz)",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Röbel (Müritz)"
+    ]
+  },
+  {
+    "code": "RN",
+    "place": "Rathenow",
+    "state": "Brandenburg",
+    "places": [
+      "Rathenow"
+    ]
+  },
+  {
+    "code": "RO",
+    "place": "Rosenheim",
+    "state": "Bayern",
+    "places": [
+      "Rosenheim"
+    ]
+  },
+  {
+    "code": "ROD",
+    "place": "Roding",
+    "state": "Bayern",
+    "places": [
+      "Roding"
+    ]
+  },
+  {
+    "code": "ROF",
+    "place": "Rotenburg an der Fulda",
+    "state": "Hessen",
+    "places": [
+      "Rotenburg an der Fulda"
+    ]
+  },
+  {
+    "code": "ROK",
+    "place": "Rockenhausen",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Rockenhausen"
+    ]
+  },
+  {
+    "code": "ROL",
+    "place": "Rottenburg a.d. Laaber",
+    "state": "Bayern",
+    "places": [
+      "Rottenburg a.d. Laaber"
+    ]
+  },
+  {
+    "code": "ROS",
+    "place": "Rostock",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Rostock"
+    ]
+  },
+  {
+    "code": "ROT",
+    "place": "Rothenburg o.d. Tauber",
+    "state": "Bayern",
+    "places": [
+      "Rothenburg o.d. Tauber"
+    ]
+  },
+  {
+    "code": "ROW",
+    "place": "Rotenburg (Wümme)",
+    "state": "Niedersachsen",
+    "places": [
+      "Rotenburg (Wümme)"
+    ]
+  },
+  {
+    "code": "RP",
+    "place": "Rhein-Pfalz-Kreis",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Rhein-Pfalz-Kreis"
+    ]
+  },
+  {
+    "code": "RS",
+    "place": "Remscheid",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Remscheid"
+    ]
+  },
+  {
+    "code": "RSL",
+    "place": "Roßlau",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Roßlau"
+    ]
+  },
+  {
+    "code": "RT",
+    "place": "Reutlingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Reutlingen"
+    ]
+  },
+  {
+    "code": "RU",
+    "place": "Rudolstadt",
+    "state": "Thüringen",
+    "places": [
+      "Rudolstadt"
+    ]
+  },
+  {
+    "code": "RV",
+    "place": "Ravensburg",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Ravensburg"
+    ]
+  },
+  {
+    "code": "RW",
+    "place": "Rottweil",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Rottweil"
+    ]
+  },
+  {
+    "code": "RZ",
+    "place": "Herzogtum Lauenburg (Ratzeburg)",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Herzogtum Lauenburg (Ratzeburg)"
+    ]
+  },
+  {
+    "code": "RÜD",
+    "place": "Rheingau-Taunus-Kreis",
+    "state": "Hessen",
+    "places": [
+      "Rheingau-Taunus-Kreis"
+    ]
+  },
+  {
+    "code": "RÜG",
+    "place": "Rügen",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Rügen"
+    ]
+  },
+  {
+    "code": "S",
+    "place": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Stuttgart"
+    ]
+  },
+  {
+    "code": "SAB",
+    "place": "Saarburg",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Saarburg"
+    ]
+  },
+  {
+    "code": "SAD",
+    "place": "Schwandorf",
+    "state": "Bayern",
+    "places": [
+      "Schwandorf"
+    ]
+  },
+  {
+    "code": "SAN",
+    "place": "Stadtsteinach",
+    "state": "Bayern",
+    "places": [
+      "Stadtsteinach"
+    ]
+  },
+  {
+    "code": "SAW",
+    "place": "Altmarkkreis Salzwedel",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Altmarkkreis Salzwedel"
+    ]
+  },
+  {
+    "code": "SB",
+    "place": "Saarbrücken",
+    "state": "Saarland",
+    "places": [
+      "Saarbrücken"
+    ]
+  },
+  {
+    "code": "SBG",
+    "place": "Strasburg",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Strasburg"
+    ]
+  },
+  {
+    "code": "SBK",
+    "place": "Schönebeck",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Schönebeck"
+    ]
+  },
+  {
+    "code": "SC",
+    "place": "Schwabach",
+    "state": "Bayern",
+    "places": [
+      "Schwabach"
+    ]
+  },
+  {
+    "code": "SCZ",
+    "place": "Schleiz",
+    "state": "Thüringen",
+    "places": [
+      "Schleiz"
+    ]
+  },
+  {
+    "code": "SDH",
+    "place": "Sondershausen",
+    "state": "Thüringen",
+    "places": [
+      "Sondershausen"
+    ]
+  },
+  {
+    "code": "SDL",
+    "place": "Stendal",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Stendal"
+    ]
+  },
+  {
+    "code": "SDT",
+    "place": "Schwedt (Oder)",
+    "state": "Brandenburg",
+    "places": [
+      "Schwedt (Oder)"
+    ]
+  },
+  {
+    "code": "SE",
+    "place": "Segeberg",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Segeberg"
+    ]
+  },
+  {
+    "code": "SEB",
+    "place": "Sebnitz",
+    "state": "Sachsen",
+    "places": [
+      "Sebnitz"
+    ]
+  },
+  {
+    "code": "SEE",
+    "place": "Seelow",
+    "state": "Brandenburg",
+    "places": [
+      "Seelow"
+    ]
+  },
+  {
+    "code": "SEF",
+    "place": "Scheinfeld",
+    "state": "Bayern",
+    "places": [
+      "Scheinfeld"
+    ]
+  },
+  {
+    "code": "SEL",
+    "place": "Selb",
+    "state": "Bayern",
+    "places": [
+      "Selb"
+    ]
+  },
+  {
+    "code": "SFB",
+    "place": "Senftenberg",
+    "state": "Brandenburg",
+    "places": [
+      "Senftenberg"
+    ]
+  },
+  {
+    "code": "SFT",
+    "place": "Staßfurt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Staßfurt"
+    ]
+  },
+  {
+    "code": "SG",
+    "place": "Solingen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Solingen"
+    ]
+  },
+  {
+    "code": "SGH",
+    "place": "Sangerhausen",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Sangerhausen"
+    ]
+  },
+  {
+    "code": "SHA",
+    "place": "Schwäbisch Hall",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Schwäbisch Hall"
+    ]
+  },
+  {
+    "code": "SHG",
+    "place": "Schaumburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Schaumburg"
+    ]
+  },
+  {
+    "code": "SHK",
+    "place": "Saale-Holzland-Kreis",
+    "state": "Thüringen",
+    "places": [
+      "Saale-Holzland-Kreis"
+    ]
+  },
+  {
+    "code": "SHL",
+    "place": "Suhl",
+    "state": "Thüringen",
+    "places": [
+      "Suhl"
+    ]
+  },
+  {
+    "code": "SI",
+    "place": "Siegen-Wittgenstein",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Siegen-Wittgenstein"
+    ]
+  },
+  {
+    "code": "SIG",
+    "place": "Sigmaringen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Sigmaringen"
+    ]
+  },
+  {
+    "code": "SIM",
+    "place": "Rhein-Hunsrück-Kreis (Simmern)",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Rhein-Hunsrück-Kreis (Simmern)"
+    ]
+  },
+  {
+    "code": "SK",
+    "place": "Saalekreis",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Saalekreis"
+    ]
+  },
+  {
+    "code": "SL",
+    "place": "Schleswig-Flensburg",
+    "state": "Schleswig-Holstein",
+    "places": [
+      "Schleswig-Flensburg"
+    ]
+  },
+  {
+    "code": "SLE",
+    "place": "Schleiden",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Schleiden"
+    ]
+  },
+  {
+    "code": "SLF",
+    "place": "Saalfeld-Rudolstadt",
+    "state": "Thüringen",
+    "places": [
+      "Saalfeld-Rudolstadt"
+    ]
+  },
+  {
+    "code": "SLG",
+    "place": "Saulgau (Württemberg)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Saulgau (Württemberg)"
+    ]
+  },
+  {
+    "code": "SLK",
+    "place": "Salzlandkreis",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Salzlandkreis"
+    ]
+  },
+  {
+    "code": "SLN",
+    "place": "Schmölln",
+    "state": "Thüringen",
+    "places": [
+      "Schmölln"
+    ]
+  },
+  {
+    "code": "SLS",
+    "place": "Saarlouis",
+    "state": "Saarland",
+    "places": [
+      "Saarlouis"
+    ]
+  },
+  {
+    "code": "SLZ",
+    "place": "Bad Salzungen",
+    "state": "Thüringen",
+    "places": [
+      "Bad Salzungen"
+    ]
+  },
+  {
+    "code": "SLÜ",
+    "place": "Schlüchtern",
+    "state": "Hessen",
+    "places": [
+      "Schlüchtern"
+    ]
+  },
+  {
+    "code": "SM",
+    "place": "Schmalkalden-Meiningen",
+    "state": "Thüringen",
+    "places": [
+      "Schmalkalden-Meiningen"
+    ]
+  },
+  {
+    "code": "SMÜ",
+    "place": "Schwabmünchen",
+    "state": "Bayern",
+    "places": [
+      "Schwabmünchen"
+    ]
+  },
+  {
+    "code": "SN",
+    "place": "Schwerin",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Schwerin"
+    ]
+  },
+  {
+    "code": "SO",
+    "place": "Soest",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Soest"
+    ]
+  },
+  {
+    "code": "SOB",
+    "place": "Schrobenhausen",
+    "state": "Bayern",
+    "places": [
+      "Schrobenhausen"
+    ]
+  },
+  {
+    "code": "SOG",
+    "place": "Schongau",
+    "state": "Bayern",
+    "places": [
+      "Schongau"
+    ]
+  },
+  {
+    "code": "SOK",
+    "place": "Saale-Orla-Kreis (Schleiz)",
+    "state": "Thüringen",
+    "places": [
+      "Saale-Orla-Kreis (Schleiz)"
+    ]
+  },
+  {
+    "code": "SON",
+    "place": "Sonneberg",
+    "state": "Thüringen",
+    "places": [
+      "Sonneberg"
+    ]
+  },
+  {
+    "code": "SP",
+    "place": "Speyer",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Speyer"
+    ]
+  },
+  {
+    "code": "SPB",
+    "place": "Spremberg",
+    "state": "Brandenburg",
+    "places": [
+      "Spremberg"
+    ]
+  },
+  {
+    "code": "SPN",
+    "place": "Spree-Neiße",
+    "state": "Brandenburg",
+    "places": [
+      "Spree-Neiße"
+    ]
+  },
+  {
+    "code": "SR",
+    "place": "Straubing (-Bogen)",
+    "state": "Bayern",
+    "places": [
+      "Straubing (-Bogen)"
+    ]
+  },
+  {
+    "code": "SRB",
+    "place": "Strausberg",
+    "state": "Brandenburg",
+    "places": [
+      "Strausberg"
+    ]
+  },
+  {
+    "code": "SRO",
+    "place": "Stadtroda",
+    "state": "Thüringen",
+    "places": [
+      "Stadtroda"
+    ]
+  },
+  {
+    "code": "ST",
+    "place": "Steinfurt",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Steinfurt"
+    ]
+  },
+  {
+    "code": "STA",
+    "place": "Starnberg",
+    "state": "Bayern",
+    "places": [
+      "Starnberg"
+    ]
+  },
+  {
+    "code": "STB",
+    "place": "Sternberg",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Sternberg"
+    ]
+  },
+  {
+    "code": "STD",
+    "place": "Stade",
+    "state": "Niedersachsen",
+    "places": [
+      "Stade"
+    ]
+  },
+  {
+    "code": "STE",
+    "place": "Staffelstein",
+    "state": "Bayern",
+    "places": [
+      "Staffelstein"
+    ]
+  },
+  {
+    "code": "STL",
+    "place": "Stollberg",
+    "state": "Sachsen",
+    "places": [
+      "Stollberg"
+    ]
+  },
+  {
+    "code": "STO",
+    "place": "Stockach",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Stockach"
+    ]
+  },
+  {
+    "code": "SU",
+    "place": "Rhein-Sieg-Kreis (Siegburg)",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Rhein-Sieg-Kreis (Siegburg)"
+    ]
+  },
+  {
+    "code": "SUL",
+    "place": "Sulzbach-Rosenberg",
+    "state": "Bayern",
+    "places": [
+      "Sulzbach-Rosenberg"
+    ]
+  },
+  {
+    "code": "SW",
+    "place": "Schweinfurt",
+    "state": "Bayern",
+    "places": [
+      "Schweinfurt"
+    ]
+  },
+  {
+    "code": "SWA",
+    "place": "Rheingau-Taunus-Kreis (Bad Schwalbach)",
+    "state": "Hessen",
+    "places": [
+      "Rheingau-Taunus-Kreis (Bad Schwalbach)"
+    ]
+  },
+  {
+    "code": "SY",
+    "place": "Grafschaft Hoya (Syke)",
+    "state": "Niedersachsen",
+    "places": [
+      "Grafschaft Hoya (Syke)"
+    ]
+  },
+  {
+    "code": "SZ",
+    "place": "Salzgitter",
+    "state": "Niedersachsen",
+    "places": [
+      "Salzgitter"
+    ]
+  },
+  {
+    "code": "SZB",
+    "place": "Schwarzenberg",
+    "state": "Sachsen",
+    "places": [
+      "Schwarzenberg"
+    ]
+  },
+  {
+    "code": "SÄK",
+    "place": "Säckingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Säckingen"
+    ]
+  },
+  {
+    "code": "SÖM",
+    "place": "Sömmerda",
+    "state": "Thüringen",
+    "places": [
+      "Sömmerda"
+    ]
+  },
+  {
+    "code": "SÜW",
+    "place": "Südliche Weinstraße",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Südliche Weinstraße"
+    ]
+  },
+  {
+    "code": "TBB",
+    "place": "Main-Tauber-Kreis (Tauberbischofsheim)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Main-Tauber-Kreis (Tauberbischofsheim)"
+    ]
+  },
+  {
+    "code": "TDO",
+    "place": "Torgau, Delitzsch, Oschatz (Nordsachsen)",
+    "state": "Sachsen",
+    "places": [
+      "Torgau, Delitzsch, Oschatz (Nordsachsen)"
+    ]
+  },
+  {
+    "code": "TE",
+    "place": "Tecklenburg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Tecklenburg"
+    ]
+  },
+  {
+    "code": "TET",
+    "place": "Teterow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Teterow"
+    ]
+  },
+  {
+    "code": "TF",
+    "place": "Teltow-Fläming",
+    "state": "Brandenburg",
+    "places": [
+      "Teltow-Fläming"
+    ]
+  },
+  {
+    "code": "TG",
+    "place": "Torgau",
+    "state": "Sachsen",
+    "places": [
+      "Torgau"
+    ]
+  },
+  {
+    "code": "TIR",
+    "place": "Tirschenreuth",
+    "state": "Bayern",
+    "places": [
+      "Tirschenreuth"
+    ]
+  },
+  {
+    "code": "TO",
+    "place": "Torgau-Oschatz",
+    "state": "Sachsen",
+    "places": [
+      "Torgau-Oschatz"
+    ]
+  },
+  {
+    "code": "TP",
+    "place": "Templin",
+    "state": "Brandenburg",
+    "places": [
+      "Templin"
+    ]
+  },
+  {
+    "code": "TR",
+    "place": "Trier",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Trier"
+    ]
+  },
+  {
+    "code": "TS",
+    "place": "Traunstein",
+    "state": "Bayern",
+    "places": [
+      "Traunstein"
+    ]
+  },
+  {
+    "code": "TT",
+    "place": "Tettnang (Württemberg)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Tettnang (Württemberg)"
+    ]
+  },
+  {
+    "code": "TUT",
+    "place": "Tuttlingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Tuttlingen"
+    ]
+  },
+  {
+    "code": "TÖL",
+    "place": "Bad Tölz-Wolfratshausen",
+    "state": "Bayern",
+    "places": [
+      "Bad Tölz-Wolfratshausen"
+    ]
+  },
+  {
+    "code": "TÜ",
+    "place": "Tübingen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Tübingen"
+    ]
+  },
+  {
+    "code": "UE",
+    "place": "Uelzen",
+    "state": "Niedersachsen",
+    "places": [
+      "Uelzen"
+    ]
+  },
+  {
+    "code": "UEM",
+    "place": "Ueckermünde",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Ueckermünde"
+    ]
+  },
+  {
+    "code": "UER",
+    "place": "Uecker-Randow",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Uecker-Randow"
+    ]
+  },
+  {
+    "code": "UFF",
+    "place": "Uffenheim",
+    "state": "Bayern",
+    "places": [
+      "Uffenheim"
+    ]
+  },
+  {
+    "code": "UH",
+    "place": "Unstrut-Hainich-Kreis",
+    "state": "Thüringen",
+    "places": [
+      "Unstrut-Hainich-Kreis"
+    ]
+  },
+  {
+    "code": "UL",
+    "place": "Ulm",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Ulm"
+    ]
+  },
+  {
+    "code": "UM",
+    "place": "Uckermark",
+    "state": "Brandenburg",
+    "places": [
+      "Uckermark"
+    ]
+  },
+  {
+    "code": "UN",
+    "place": "Unna",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Unna"
+    ]
+  },
+  {
+    "code": "USI",
+    "place": "Usingen",
+    "state": "Hessen",
+    "places": [
+      "Usingen"
+    ]
+  },
+  {
+    "code": "V",
+    "place": "Vogtlandkreis",
+    "state": "Sachsen",
+    "places": [
+      "Vogtlandkreis"
+    ]
+  },
+  {
+    "code": "VAI",
+    "place": "Vaihingen an der Enz",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Vaihingen an der Enz"
+    ]
+  },
+  {
+    "code": "VB",
+    "place": "Vogelsbergkreis",
+    "state": "Hessen",
+    "places": [
+      "Vogelsbergkreis"
+    ]
+  },
+  {
+    "code": "VEC",
+    "place": "Vechta",
+    "state": "Niedersachsen",
+    "places": [
+      "Vechta"
+    ]
+  },
+  {
+    "code": "VER",
+    "place": "Verden",
+    "state": "Niedersachsen",
+    "places": [
+      "Verden"
+    ]
+  },
+  {
+    "code": "VG",
+    "place": "Vorpommern-Greifswald",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Vorpommern-Greifswald"
+    ]
+  },
+  {
+    "code": "VIB",
+    "place": "Vilsbiburg",
+    "state": "Bayern",
+    "places": [
+      "Vilsbiburg"
+    ]
+  },
+  {
+    "code": "VIE",
+    "place": "Viersen",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Viersen"
+    ]
+  },
+  {
+    "code": "VIT",
+    "place": "Viechtach",
+    "state": "Bayern",
+    "places": [
+      "Viechtach"
+    ]
+  },
+  {
+    "code": "VK",
+    "place": "Völklingen",
+    "state": "Saarland",
+    "places": [
+      "Völklingen"
+    ]
+  },
+  {
+    "code": "VOH",
+    "place": "Vohenstrauß",
+    "state": "Bayern",
+    "places": [
+      "Vohenstrauß"
+    ]
+  },
+  {
+    "code": "VR",
+    "place": "Vorpommern-Rügen",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Vorpommern-Rügen"
+    ]
+  },
+  {
+    "code": "VS",
+    "place": "Schwarzwald-Baar-Kreis (Villingen-Schwenningen)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Schwarzwald-Baar-Kreis (Villingen-Schwenningen)"
+    ]
+  },
+  {
+    "code": "W",
+    "place": "Wuppertal",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Wuppertal"
+    ]
+  },
+  {
+    "code": "WA",
+    "place": "Waldeck",
+    "state": "Hessen",
+    "places": [
+      "Waldeck"
+    ]
+  },
+  {
+    "code": "WAF",
+    "place": "Warendorf",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Warendorf"
+    ]
+  },
+  {
+    "code": "WAK",
+    "place": "Wartburgkreis",
+    "state": "Thüringen",
+    "places": [
+      "Wartburgkreis"
+    ]
+  },
+  {
+    "code": "WAN",
+    "place": "Wanne-Eickel",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Wanne-Eickel"
+    ]
+  },
+  {
+    "code": "WAR",
+    "place": "Warburg",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Warburg"
+    ]
+  },
+  {
+    "code": "WAT",
+    "place": "Wattenscheid",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Wattenscheid"
+    ]
+  },
+  {
+    "code": "WB",
+    "place": "Wittenberg",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Wittenberg"
+    ]
+  },
+  {
+    "code": "WBG",
+    "place": "Wolfsburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Wolfsburg"
+    ]
+  },
+  {
+    "code": "WBS",
+    "place": "Worbis",
+    "state": "Thüringen",
+    "places": [
+      "Worbis"
+    ]
+  },
+  {
+    "code": "WDA",
+    "place": "Werdau",
+    "state": "Sachsen",
+    "places": [
+      "Werdau"
+    ]
+  },
+  {
+    "code": "WE",
+    "place": "Weimar",
+    "state": "Thüringen",
+    "places": [
+      "Weimar"
+    ]
+  },
+  {
+    "code": "WEL",
+    "place": "Weilburg",
+    "state": "Hessen",
+    "places": [
+      "Weilburg"
+    ]
+  },
+  {
+    "code": "WEN",
+    "place": "Weiden i. d. Oberpfalz",
+    "state": "Bayern",
+    "places": [
+      "Weiden i. d. Oberpfalz"
+    ]
+  },
+  {
+    "code": "WER",
+    "place": "Wertingen",
+    "state": "Bayern",
+    "places": [
+      "Wertingen"
+    ]
+  },
+  {
+    "code": "WES",
+    "place": "Wesel",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Wesel"
+    ]
+  },
+  {
+    "code": "WF",
+    "place": "Wolfenbüttel",
+    "state": "Niedersachsen",
+    "places": [
+      "Wolfenbüttel"
+    ]
+  },
+  {
+    "code": "WG",
+    "place": "Wangen im Allgäu",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Wangen im Allgäu"
+    ]
+  },
+  {
+    "code": "WHV",
+    "place": "Wilhelmshaven",
+    "state": "Niedersachsen",
+    "places": [
+      "Wilhelmshaven"
+    ]
+  },
+  {
+    "code": "WI",
+    "place": "Wiesbaden",
+    "state": "Hessen",
+    "places": [
+      "Wiesbaden"
+    ]
+  },
+  {
+    "code": "WIL",
+    "place": "Wittlich",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Wittlich"
+    ]
+  },
+  {
+    "code": "WIS",
+    "place": "Wismar",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Wismar"
+    ]
+  },
+  {
+    "code": "WIT",
+    "place": "Witten",
+    "state": "Nordrhein-Westfalen",
+    "places": [
+      "Witten"
+    ]
+  },
+  {
+    "code": "WIZ",
+    "place": "Witzenhausen",
+    "state": "Hessen",
+    "places": [
+      "Witzenhausen"
+    ]
+  },
+  {
+    "code": "WK",
+    "place": "Wittstock",
+    "state": "Brandenburg",
+    "places": [
+      "Wittstock"
+    ]
+  },
+  {
+    "code": "WL",
+    "place": "Harburg (Winsen/Luhe)",
+    "state": "Niedersachsen",
+    "places": [
+      "Harburg (Winsen/Luhe)"
+    ]
+  },
+  {
+    "code": "WLG",
+    "place": "Wolgast",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Wolgast"
+    ]
+  },
+  {
+    "code": "WM",
+    "place": "Weilheim-Schongau",
+    "state": "Bayern",
+    "places": [
+      "Weilheim-Schongau"
+    ]
+  },
+  {
+    "code": "WMS",
+    "place": "Wolmirstedt",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Wolmirstedt"
+    ]
+  },
+  {
+    "code": "WN",
+    "place": "Rems-Murr-Kreis (Waiblingen)",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Rems-Murr-Kreis (Waiblingen)"
+    ]
+  },
+  {
+    "code": "WND",
+    "place": "St. Wendel",
+    "state": "Saarland",
+    "places": [
+      "St. Wendel"
+    ]
+  },
+  {
+    "code": "WO",
+    "place": "Worms",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Worms"
+    ]
+  },
+  {
+    "code": "WOB",
+    "place": "Wolfsburg",
+    "state": "Niedersachsen",
+    "places": [
+      "Wolfsburg"
+    ]
+  },
+  {
+    "code": "WOH",
+    "place": "Wolfhagen",
+    "state": "Hessen",
+    "places": [
+      "Wolfhagen"
+    ]
+  },
+  {
+    "code": "WOL",
+    "place": "Wolfach",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Wolfach"
+    ]
+  },
+  {
+    "code": "WOR",
+    "place": "Wolfratshausen",
+    "state": "Bayern",
+    "places": [
+      "Wolfratshausen"
+    ]
+  },
+  {
+    "code": "WOS",
+    "place": "Wolfstein",
+    "state": "Bayern",
+    "places": [
+      "Wolfstein"
+    ]
+  },
+  {
+    "code": "WR",
+    "place": "Wernigerode",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Wernigerode"
+    ]
+  },
+  {
+    "code": "WRN",
+    "place": "Waren",
+    "state": "Mecklenburg-Vorpommern",
+    "places": [
+      "Waren"
+    ]
+  },
+  {
+    "code": "WS",
+    "place": "Wasserburg am Inn",
+    "state": "Bayern",
+    "places": [
+      "Wasserburg am Inn"
+    ]
+  },
+  {
+    "code": "WSF",
+    "place": "Weißenfels",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Weißenfels"
+    ]
+  },
+  {
+    "code": "WST",
+    "place": "Ammerland (Westerstede)",
+    "state": "Niedersachsen",
+    "places": [
+      "Ammerland (Westerstede)"
+    ]
+  },
+  {
+    "code": "WSW",
+    "place": "Weißwasser",
+    "state": "Sachsen",
+    "places": [
+      "Weißwasser"
+    ]
+  },
+  {
+    "code": "WT",
+    "place": "Waldshut",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Waldshut"
+    ]
+  },
+  {
+    "code": "WTL",
+    "place": "Wittlage",
+    "state": "Niedersachsen",
+    "places": [
+      "Wittlage"
+    ]
+  },
+  {
+    "code": "WTM",
+    "place": "Wittmund",
+    "state": "Niedersachsen",
+    "places": [
+      "Wittmund"
+    ]
+  },
+  {
+    "code": "WUG",
+    "place": "Weißenburg-Gunzenhausen",
+    "state": "Bayern",
+    "places": [
+      "Weißenburg-Gunzenhausen"
+    ]
+  },
+  {
+    "code": "WUN",
+    "place": "Wunsiedel",
+    "state": "Bayern",
+    "places": [
+      "Wunsiedel"
+    ]
+  },
+  {
+    "code": "WUR",
+    "place": "Wurzen",
+    "state": "Sachsen",
+    "places": [
+      "Wurzen"
+    ]
+  },
+  {
+    "code": "WW",
+    "place": "Westerwaldkreis",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Westerwaldkreis"
+    ]
+  },
+  {
+    "code": "WZ",
+    "place": "Wetzlar",
+    "state": "Hessen",
+    "places": [
+      "Wetzlar"
+    ]
+  },
+  {
+    "code": "WZL",
+    "place": "Wanzleben",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Wanzleben"
+    ]
+  },
+  {
+    "code": "WÜ",
+    "place": "Würzburg",
+    "state": "Bayern",
+    "places": [
+      "Würzburg"
+    ]
+  },
+  {
+    "code": "WÜM",
+    "place": "Waldmünchen",
+    "state": "Bayern",
+    "places": [
+      "Waldmünchen"
+    ]
+  },
+  {
+    "code": "Z",
+    "place": "Zwickau",
+    "state": "Sachsen",
+    "places": [
+      "Zwickau"
+    ]
+  },
+  {
+    "code": "ZE",
+    "place": "Zerbst",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Zerbst"
+    ]
+  },
+  {
+    "code": "ZEL",
+    "place": "Zell (Mosel)",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Zell (Mosel)"
+    ]
+  },
+  {
+    "code": "ZI",
+    "place": "Löbau-Zittau",
+    "state": "Sachsen",
+    "places": [
+      "Löbau-Zittau"
+    ]
+  },
+  {
+    "code": "ZIG",
+    "place": "Ziegenhain (Schwalm-Eder-Kreis)",
+    "state": "Hessen",
+    "places": [
+      "Ziegenhain (Schwalm-Eder-Kreis)"
+    ]
+  },
+  {
+    "code": "ZP",
+    "place": "Zschopau",
+    "state": "Sachsen",
+    "places": [
+      "Zschopau"
+    ]
+  },
+  {
+    "code": "ZR",
+    "place": "Zeulenroda",
+    "state": "Thüringen",
+    "places": [
+      "Zeulenroda"
+    ]
+  },
+  {
+    "code": "ZS",
+    "place": "Zossen",
+    "state": "Brandenburg",
+    "places": [
+      "Zossen"
+    ]
+  },
+  {
+    "code": "ZW",
+    "place": "Zweibrücken",
+    "state": "Rheinland-Pfalz",
+    "places": [
+      "Zweibrücken"
+    ]
+  },
+  {
+    "code": "ZZ",
+    "place": "Zeitz",
+    "state": "Sachsen-Anhalt",
+    "places": [
+      "Zeitz"
+    ]
+  },
+  {
+    "code": "ÖHR",
+    "place": "Öhringen",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Öhringen"
+    ]
+  },
+  {
+    "code": "ÜB",
+    "place": "Überlingen am Bodensee",
+    "state": "Baden-Württemberg",
+    "places": [
+      "Überlingen am Bodensee"
+    ]
+  }
+]
