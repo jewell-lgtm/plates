@@ -17,6 +17,7 @@ test('manifest, legacy migration, offline cold start, writes and removal', async
   await page.reload();
   await expect(page.getByRole('button', { name: 'Spotted 1', exact: true })).toBeVisible();
   await page.evaluate(() => navigator.serviceWorker.ready);
+  await page.reload();
   await page.waitForFunction(() => !!navigator.serviceWorker.controller);
   const manifest = await (await page.request.get('/manifest.webmanifest')).json();
   expect(manifest.display).toBe('standalone');
@@ -94,7 +95,7 @@ test('groups mystery and spotted plates by combined Bundesland and links to GitH
   await page.getByRole('button', { name: 'Spotted 4', exact: true }).click();
   await expect(page.getByRole('heading')).toHaveText(['Berlin / Brandenburg', 'Bremen / Niedersachsen', 'Hamburg / Schleswig-Holstein']);
   await expect(page.getByRole('button', { name: 'B, Berlin. Open fact', exact: true })).toBeAttached();
-  const link = page.getByRole('link', { name: 'View plates on GitHub' });
+  const link = page.getByRole('link', { name: 'View Schildersafari on GitHub' });
   await expect(link).toBeAttached();
   const popupPromise = page.waitForEvent('popup');
   await link.click();
@@ -104,5 +105,5 @@ test('groups mystery and spotted plates by combined Bundesland and links to GitH
   await page.getByRole('button', { name: 'Unseen', exact: true }).click();
   await expect(page.getByRole('button', { name: 'B, Berlin. Open fact', exact: true })).toHaveCount(0);
   await page.getByRole('button', { name: 'About the collection' }).click();
-  await expect(page.getByRole('link', { name: 'View plates on GitHub' }).last()).toBeVisible();
+  await expect(page.getByRole('link', { name: 'View Schildersafari on GitHub' }).last()).toBeVisible();
 });

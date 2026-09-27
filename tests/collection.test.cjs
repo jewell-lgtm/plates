@@ -51,3 +51,21 @@ test('filters keep regional membership, progress and complete grid rows', () => 
  }
  assert.deepEqual(collectionRows({},'seen',3),[]);
 });
+const {parseBackup,mergeSightings,createBackup}=require('../src/backup.ts');
+const {validLocation,decodeLocations}=require('../src/locationModel.ts');
+test('backup validation is strict and merge preserves first sighting dates',()=>{
+ const original={B:'2026-09-25T00:00:00Z'};
+ assert.deepEqual(parseBackup(createBackup(original)),original);
+ for(const sightings of [{ZZZ:'2026-09-27'}, {B:'nope'}, []]) assert.throws(()=>parseBackup(JSON.stringify({app:'schildersafari',version:1,sightings})));
+ assert.deepEqual(mergeSightings(original,{B:'2026-09-27T00:00:00Z',HH:'2026-09-27T00:00:00Z'}),{...original,HH:'2026-09-27T00:00:00Z'});
+});
+test('coordinates must be finite, within geographic bounds and timestamped',()=>{
+ const location={latitude:52.52,longitude:13.405,accuracy:10,capturedAt:'2026-09-27T10:00:00Z'};
+ assert(validLocation(location));
+ for(const change of [{latitude:91},{longitude:181},{latitude:NaN},{accuracy:-1},{capturedAt:'oops'}])assert(!validLocation({...location,...change}));
+ assert.deepEqual(decodeLocations(JSON.stringify({B:location,ZZZ:location})),{B:location});
+});
+test('German facts exist for every code, including curated stories and fallbacks',()=>{
+ for(const p of plates)assert.notEqual(factFor(p,'de').text,factFor(p,'en').text);
+ assert.match(factFor(byCode.get('B'),'de').text,/Schutthaufen/);
+});

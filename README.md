@@ -1,8 +1,8 @@
-# plates.
+# Schildersafari
 
 An offline-first field guide for spotting German number plates. Built with Expo, React Native and TypeScript for web, iOS and Android.
 
-**[Try the live PWA](https://plates.wire.mattjewell.co.uk)**
+**[Try the live PWA](https://schildersafari.de)**
 
 Enter a code such as **B**, **HH** or **BÜS**, tap **Spotted!**, and discover the place behind it. Unseen plates stay hidden as `?`, `??` or `???`. Tap a collected plate to revisit its story.
 
@@ -15,6 +15,10 @@ Enter a code such as **B**, **HH** or **BÜS**, tap **Spotted!**, and discover t
 - Local persistence, first-sighting dates, duplicate handling, and removal of mistakes.
 - Installable PWA that works offline after its first successful online load.
 - Sourced stories, including Berlin’s rubble mountain and Hamburg’s municipal Swan Father.
+
+- German and English, selected from your browser locale with a saved manual override.
+- Optional last-sighting GPS position per plate: explicitly save, update or remove it. No background tracking; coordinates stay on your device.
+- Collection backup/import, plus crawler files and social preview metadata.
 
 ## Development
 
@@ -48,13 +52,13 @@ docker build -f deploy/Dockerfile -t plates .
 docker run --rm -p 8080:8080 plates
 ```
 
-The nginx container serves on port 8080 as a non-root user. Put it behind an HTTPS reverse proxy. A read-only filesystem is supported with writable `/tmp`. `/healthz` provides a health check. Preserve all exported assets, including fonts in `dist/assets/node_modules/`.
+The nginx container serves on port 8080 as a non-root user. Put it behind an HTTPS reverse proxy. Optional GPS requires a Permissions-Policy that permits `geolocation=(self)`. A read-only filesystem is supported with writable `/tmp`. `/healthz` provides a health check. Preserve all exported assets, including fonts in `dist/assets/node_modules/`.
 
 ## Persistence
 
 Web sightings live in IndexedDB. Existing AsyncStorage/localStorage saves migrate automatically. Writes commit before a plate unlocks, and transactions merge sightings from concurrent tabs. Native builds use AsyncStorage.
 
-The app asks the browser for persistent storage when spotting a plate. Browsers decide whether to grant protection from automatic eviction; denial does not prevent ordinary saves. Clearing site data, deleting a browser profile, or private-browsing cleanup can still erase progress. There is no cloud sync: each device and origin has a separate collection. Keep your deployed hostname stable.
+The app asks the browser for persistent storage when spotting a plate. Browsers decide whether to grant protection from automatic eviction; denial does not prevent ordinary saves. Clearing site data, deleting a browser profile, or private-browsing cleanup can still erase progress. There is no cloud sync: each device and origin has a separate collection. Use About → Show backup on the old site, then paste it into About → Import backup on the new site to move your collection. Backups deliberately exclude GPS coordinates. The old hostname remains available for this migration.
 
 ## Verification
 

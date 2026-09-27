@@ -14,10 +14,30 @@ const facts: Record<string, Fact> = {
  MU: { title: 'München got a second helping.', text: 'The district of Munich started issuing MU on 19 January 2026, alongside M. A fresh little code for a very well-spotted part of Germany.', source: 'https://www.landkreis-muenchen.de/artikel/start-fuer-mu-neues-kfz-kennzeichen-ab-januar/' },
 };
 facts.MUC = facts.M;
-export function factFor(plate: Plate): Fact {
+export function factFor(plate: Plate, language: 'en' | 'de' = 'en'): Fact {
+ if (language === 'de') {
+  const translated = germanFacts[plate.code];
+  if (translated) return { ...facts[plate.code], ...translated };
+  return { title: 'Ein kleines Kürzel. Ein ganzer Ort.', text: `${plate.code} steht für ${plate.places.join(' / ')} in ${plate.state}. ${plate.places.length > 1 ? 'Überraschung: Mehrere Orte teilen sich dieses Kürzel. Ein winziges Schild, mehrere Heimatorte.' : 'Ein ganzes Stück Deutschland in ' + plate.code.length + (plate.code.length === 1 ? ' Buchstaben.' : ' Buchstaben.')}`, label: 'HINTER DEM KÜRZEL', source: CATALOG_SOURCE };
+ }
  return facts[plate.code] ?? {
   title: 'A little code. A whole place.',
   text: `${plate.code} identifies ${plate.places.join(' / ')} in ${plate.state}. ${plate.places.length > 1 ? 'Plot twist: this code is shared by more than one place. One tiny plate, several hometowns.' : 'A whole corner of Germany squeezed into ' + plate.code.length + (plate.code.length === 1 ? ' letter.' : ' letters.')}`,
   label: 'BEHIND THE CODE', source: CATALOG_SOURCE,
  };
 }
+
+const germanFacts: Record<string, { title: string; text: string }> = {
+ B: { title: 'Ein Berg aus Vergangenheit.', text: 'Berlins Teufelsberg besteht aus Trümmern des Zweiten Weltkriegs. Oben steht eine ehemalige Abhörstation aus dem Kalten Krieg. Für einen Schutthaufen eine ziemlich beeindruckende zweite Karriere.' },
+ HH: { title: '„Schwanenvater“ ist ein echter Beruf.', text: 'Die Hamburger Alsterschwäne haben einen eigenen städtischen Schwanenvater. Er kümmert sich um sie und ihr Winterquartier. Helikopter-Eltern, aber mit echten Flügeln.' },
+ W: { title: 'Der Elefant nahm den Ausgang nach unten.', text: '1950 fiel die junge Elefantin Tuffi aus der Wuppertaler Schwebebahn in die Wupper – und überlebte. Vermutlich die dramatischste Nahverkehrskritik aller Zeiten.' },
+ A: { title: 'Miete aus einem anderen Jahrhundert.', text: 'In der Augsburger Fuggerei entspricht die historische jährliche Grundmiete 88 Cent. Ja, jährlich. In deinem Sofa liegt vermutlich mehr Kleingeld.' },
+ M: { title: 'Surfbretter. Mitten in Bayern.', text: 'Münchens Eisbach wurde durch das Surfen auf einer stehenden Flusswelle mitten in der Stadt berühmt. Das Meer war offenbar nur ein optionales Extra.' },
+ BA: { title: 'Dieses Bier wurde geräuchert.', text: 'Bamberger Rauchbier erhält seinen rauchigen Geschmack durch über Rauch getrocknetes Malz. Brauereien vor Ort hielten daran fest, als sich anderswo rauchfreie Verfahren durchsetzten. Ein Lagerfeuer mit Schaumkrone.' },
+ BS: { title: 'Dieses Haus hat ein Gesicht. Mehrere.', text: 'Das Happy Rizzi House in Braunschweig ist mit bunten Comicgesichtern des New Yorker Künstlers James Rizzi bemalt. Sogar die Architektur scheint verdächtig gute Laune zu haben.' },
+ 'BÜS': { title: 'Deutschland, umzingelt von der Schweiz.', text: 'Büsingen ist deutsches Staatsgebiet, das vollständig von der Schweiz umgeben ist. Politisch deutsch, geografisch eine kleine Überraschung.' },
+ HB: { title: 'Einfach fallen lassen. Für die Wissenschaft.', text: 'Bremen hat einen Fallturm, in dem Forschende kurzzeitig Schwerelosigkeit erzeugen. Ein ganzes Labor dafür, Dinge sehr, sehr sorgfältig fallen zu lassen.' },
+ MHL: { title: 'Ein Museum mit extra Senf.', text: 'In Mühlhausen steht Deutschlands erstes Bratwurstmuseum. Endlich eine Kultureinrichtung, die weiß, wie wichtig Wurst ist.' },
+ MU: { title: 'München bekam einen Nachschlag.', text: 'Seit dem 19. Januar 2026 vergibt der Landkreis München neben M auch MU. Ein frisches kleines Kürzel für eine Gegend, in der es viel zu entdecken gibt.' },
+};
+germanFacts.MUC = germanFacts.M;

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#F7F5ED"/>
+<rect x="0" y="603" width="1200" height="27" fill="#25392E"/>
+<circle cx="1090" cy="95" r="190" fill="#EAEDE1"/>
+<text x="72" y="105" font-family="Arial,sans-serif" font-size="30" font-weight="bold" fill="#25392E">Schildersafari<tspan fill="#E57545">.</tspan></text>
+<text x="72" y="243" font-family="Arial,sans-serif" font-size="57" font-weight="bold" fill="#25392E">Jedes Kennzeichen</text>
+<text x="72" y="314" font-family="Arial,sans-serif" font-size="57" font-weight="bold" fill="#25392E">erzählt eine Geschichte<tspan fill="#E57545">.</tspan></text>
+<text x="76" y="391" font-family="Arial,sans-serif" font-size="25" fill="#596653">Entdecken. Sammeln. Staunen.</text>
+<text x="76" y="537" font-family="Arial,sans-serif" font-size="23" fill="#25392E">schildersafari.de</text>
+<g transform="translate(843 373) rotate(-9)"><rect width="275" height="116" rx="10" fill="#FFFDF7" stroke="#25392E" stroke-width="4"/><path d="M10 0h35v116H10Q0 116 0 106V10Q0 0 10 0" fill="#2C5299"/><text x="12" y="53" font-family="Arial" font-size="25" fill="#ECD472">✦</text><text x="13" y="88" font-family="Arial" font-size="23" fill="white">D</text><text x="85" y="83" font-family="monospace" font-size="66" font-weight="bold" fill="#778076">???</text></g>
+</svg>

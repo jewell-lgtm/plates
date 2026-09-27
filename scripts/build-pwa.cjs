@@ -3,7 +3,7 @@ const { generateSW } = require('workbox-build');
 (async () => {
   const path = 'dist/index.html';
   const html = fs.readFileSync(path, 'utf8');
-  fs.writeFileSync(path, html.replace('</head>', '<script defer src="/pwa.js"></script></head>'));
+  fs.writeFileSync(path, html.replace('</head>', '<script defer src="/pwa.js"></script><script defer src="https://analytics.wire.mattjewell.co.uk/script.js" data-website-id="c92bc78a-0583-486a-b985-bb5a540d97d1" data-domains="plates.wire.mattjewell.co.uk,schildersafari.de" data-exclude-search="true" data-exclude-hash="true" data-do-not-track="true"></script></head>'));
   const { count, size, warnings } = await generateSW({
     globDirectory: 'dist',
     globPatterns: ['**/*.{html,js,css,ttf,woff,woff2,png,ico,svg,webmanifest}'],

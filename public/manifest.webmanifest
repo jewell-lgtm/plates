@@ -1,17 +1,32 @@
 {
   "id": "/",
-  "name": "plates. — German plate spotting",
-  "short_name": "plates.",
-  "description": "Spot a German number plate. Collect a place. Discover its story.",
-  "lang": "en",
+  "name": "Schildersafari – Kennzeichen entdecken",
+  "short_name": "Schildersafari",
+  "description": "Kennzeichen sammeln und kuriose Geschichten entdecken. Deutsch & English.",
+  "lang": "de",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#F7F5ED",
   "theme_color": "#25392E",
   "icons": [
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }

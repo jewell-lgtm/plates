@@ -1,0 +1,18 @@
+# Schildersafari
+
+> An open-source, offline-first game for collecting German number-plate area codes and discovering the places behind them.
+
+Schildersafari is available in German and English, selected from browser language with a saved manual override. It covers 716 regional codes, grouped into 13 collections by Bundesland (combining Berlin/Brandenburg, Bremen/Niedersachsen and Hamburg/Schleswig-Holstein).
+
+Players enter an area code, such as B or HH, to mark it seen and unlock its place and a sourced fact. Unseen codes are represented by question marks. Some places have quirky researched stories; others have factual regional-code explanations. Do not describe all entries as bespoke trivia.
+
+The PWA works offline after its first complete online load. Sightings are stored locally in IndexedDB, with no account or cloud sync. GPS is entirely optional: a user can save or update their current position for a spotted plate. No location is requested on startup, no background tracking is used, and coordinates stay on the device. Text backups transfer codes and dates, but exclude GPS locations.
+
+## Links
+- [App](https://schildersafari.de/): Canonical app URL.
+- [Source and documentation](https://github.com/jewell-lgtm/plates): MIT-licensed app code, setup instructions, data provenance and tests.
+- [Author](https://mattjewell.co.uk): Matt Jewell.
+- [Catalogue source](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-zulassung/kfz-kennzeichen-deutschland/): ADAC catalogue dated 14 September 2026. This app uses a snapshot, not a live registry.
+
+## Technical summary
+Expo / React Native / TypeScript; service-worker precaching using Workbox. Static HTTPS hosting. Existing browser data from the former plates app can be exported and imported through About. Registrations and vehicle owners are not tracked.
