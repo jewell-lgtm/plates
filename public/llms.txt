@@ -4,7 +4,7 @@
 
 Schildersafari is available in German and English, selected from browser language with a saved manual override. It covers 716 regional codes, grouped into 13 collections by Bundesland (combining Berlin/Brandenburg, Bremen/Niedersachsen and Hamburg/Schleswig-Holstein).
 
-Players enter an area code, such as B or HH, to mark it seen and unlock its place and a sourced fact. Unseen codes are represented by question marks. Some places have quirky researched stories; others have factual regional-code explanations. Do not describe all entries as bespoke trivia.
+Players enter an area code, such as B or HH, to mark it seen and unlock its place and a sourced fact. Unseen codes are represented by question marks. Every code has a researched story in German and English, with a source link. Stories cover local curiosities, history, nature and traditions; folklore is explicitly presented as legend.
 
 The PWA works offline after its first complete online load. Sightings are stored locally in IndexedDB, with no account or cloud sync. GPS is entirely optional: a user can save or update their current position for a spotted plate. No location is requested on startup, no background tracking is used, and coordinates stay on the device. Text backups transfer codes and dates, but exclude GPS locations.
 

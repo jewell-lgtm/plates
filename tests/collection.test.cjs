@@ -4,7 +4,7 @@ const ts = require('typescript');
 const fs = require('node:fs');
 require.extensions['.ts'] = (module, filename) => module._compile(ts.transpileModule(fs.readFileSync(filename, 'utf8'), { compilerOptions: { module: ts.ModuleKind.CommonJS, esModuleInterop: true } }).outputText, filename);
 const { plates, byCode, normalizeCode, decodeSightings } = require('../src/collection.ts');
-const { factFor } = require('../src/facts.ts');
+const { factFor, hasCuratedFact } = require('../src/facts.ts');
 test('catalogue contains unique regional codes, recent additions and no government codes', () => {
  assert.equal(plates.length,716);assert.equal(byCode.size,plates.length);
  for(const p of plates) { assert.match(p.code,/^[A-ZÄÖÜ]{1,3}$/);assert(p.place && p.state && p.places.length); }
@@ -20,9 +20,29 @@ test('storage rejects corrupt structure and ignores unknown codes or invalid dat
  assert.deepEqual(decodeSightings(null),{});assert.deepEqual(decodeSightings(JSON.stringify({B:date,ZZZ:date,M:'oops',HH:5})),{B:date});
  for(const value of ['{','[]','null','4']) assert.throws(()=>decodeSightings(value));
 });
-test('every code has a sourced fact and Berlin has its specific curiosity',()=>{
- for(const p of plates) { const f=factFor(p); assert(f.title && f.text);assert.equal(new URL(f.source).protocol,'https:'); }
+test('every code has a researched bilingual fact, never just the generic fallback',()=>{
+ for(const p of plates) {
+  assert(hasCuratedFact(p.code), `Missing researched fact: ${p.code}`);
+  for(const language of ['en','de']) {
+   const f=factFor(p,language);
+   assert(f.title && f.text); assert.equal(f.label,undefined,`Fallback for ${p.code}/${language}`);
+   assert.equal(new URL(f.source).protocol,'https:');
+  }
+ }
  assert.match(factFor(byCode.get('B')).text,/Teufelsberg/);
+});
+test('research records match the catalogue and retain source provenance',()=>{
+ const research=require('../src/data/facts.json');
+ for(const [code,record] of Object.entries(research)) {
+  assert(byCode.has(code),`Unknown code ${code}`);
+  assert(record.place.trim(),`Missing story location for ${code}`);
+  assert.match(record.verifiedAt,/^\d{4}-\d{2}-\d{2}$/);
+  assert(record.evidence.trim());
+  assert.notEqual(record.en.text,record.de.text);
+  for(const language of ['en','de']) assert(record[language].text.length>60);
+ }
+ assert.match(factFor(byCode.get('EIL')).text,/wrong house/i);
+ assert.match(factFor(byCode.get('FEU'),'de').text,/Sage/);
 });
 const { groupPlates, collectionRows, regionFor } = require('../src/collection.ts');
 test('all 716 mystery plates belong to one alphabetically ordered region', () => {
@@ -65,7 +85,7 @@ test('coordinates must be finite, within geographic bounds and timestamped',()=>
  for(const change of [{latitude:91},{longitude:181},{latitude:NaN},{accuracy:-1},{capturedAt:'oops'}])assert(!validLocation({...location,...change}));
  assert.deepEqual(decodeLocations(JSON.stringify({B:location,ZZZ:location})),{B:location});
 });
-test('German facts exist for every code, including curated stories and fallbacks',()=>{
+test('German facts exist for every code',()=>{
  for(const p of plates)assert.notEqual(factFor(p,'de').text,factFor(p,'en').text);
  assert.match(factFor(byCode.get('B'),'de').text,/Schutthaufen/);
 });

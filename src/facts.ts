@@ -1,5 +1,8 @@
 import { CATALOG_SOURCE, Plate } from './collection';
+import researchedData from './data/facts.json';
 export type Fact = { title: string; text: string; source: string; label?: string };
+type ResearchedFact = { en: Pick<Fact, 'title' | 'text'>; de: Pick<Fact, 'title' | 'text'>; source: string };
+const researchedFacts: Record<string, ResearchedFact> = researchedData;
 const facts: Record<string, Fact> = {
  B: { title: 'A mountain made of yesterday.', text: 'Berlin’s Teufelsberg is a hill built from Second World War rubble, topped with a former Cold War listening station. A pile of debris with a rather impressive second career.', source: 'https://www.berlin.de/en/attractions-and-sights/3560349-3104052-teufelsberg.en.html' },
  HH: { title: 'Yes, “Swan Father” is a job.', text: 'Hamburg’s Alster swans have their very own municipal Swan Father, who looks after them and their winter quarters. Helicopter parenting, but with actual wings.', source: 'https://www.hamburg-travel.com/blog/the-swans-are-back-living-landmarks-return-to-hamburgs-alster/' },
@@ -14,7 +17,12 @@ const facts: Record<string, Fact> = {
  MU: { title: 'München got a second helping.', text: 'The district of Munich started issuing MU on 19 January 2026, alongside M. A fresh little code for a very well-spotted part of Germany.', source: 'https://www.landkreis-muenchen.de/artikel/start-fuer-mu-neues-kfz-kennzeichen-ab-januar/' },
 };
 facts.MUC = facts.M;
+export function hasCuratedFact(code: string): boolean {
+ return Boolean(researchedFacts[code] || (facts[code] && germanFacts[code]));
+}
 export function factFor(plate: Plate, language: 'en' | 'de' = 'en'): Fact {
+ const researched = researchedFacts[plate.code];
+ if (researched) return { ...researched[language], source: researched.source };
  if (language === 'de') {
   const translated = germanFacts[plate.code];
   if (translated) return { ...facts[plate.code], ...translated };

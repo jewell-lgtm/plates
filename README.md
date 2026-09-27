@@ -84,7 +84,9 @@ The tests use isolated browser profiles and only device-local test data.
 
 `src/data/plates.json` contains 716 distinct regional codes extracted from the [ADAC catalogue](https://www.adac.de/rund-ums-fahrzeug/auto-kaufen-verkaufen/kfz-zulassung/kfz-kennzeichen-deutschland/) dated 14 September 2026, retrieved 27 September 2026. Retired rows marked `*` and non-regional codes are excluded. Duplicate codes are merged with all listed place names retained. This is a dated snapshot, not a live government registry.
 
-`src/facts.ts` currently has 12 curated entries; other codes show a factual local-code explanation. Each story links to its source. Contributions of verified, slightly wacky local facts are welcome.
+All 716 codes have a researched story in German and English, with a source link. `src/data/facts.json` contains the expanded collection and research provenance; `src/facts.ts` retains the original stories and a defensive fallback for future catalogue additions. Legends are labelled as legends. Contributions of verified, slightly wacky local facts are welcome.
+
+Run `npm run facts:coverage` to check real story coverage (generic code explanations do not count), or `npm run facts:queue` to generate German search phrases for every distinct place label. See [the research method](docs/fact-research.md) for source selection and editorial checks.
 
 To refresh the catalogue, install Python’s `beautifulsoup4` and run `python3 scripts/update_catalogue.py`. Review the diff against the source and update snapshot dates and tests. Hidden entries are a discovery mechanic, not encrypted secrets.
 
